@@ -1,0 +1,45 @@
+{
+  "id": "BZ03L037",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Xcanluum",
+    "en": "Xcanluum",
+    "slug": "xcanluum-bz03l037"
+  },
+  "code": {
+    "id": "BZ03L037",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ03",
+    "level": 1,
+    "name": {
+      "local": "Corozal",
+      "en": "Corozal",
+      "slug": "corozal-bz03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ03",
+      "level": 1,
+      "name": {
+        "local": "Corozal",
+        "en": "Corozal",
+        "slug": "corozal-bz03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.398",
+    "lon": "-88.46"
+  },
+  "metadata": {},
+  "source": {}
+}

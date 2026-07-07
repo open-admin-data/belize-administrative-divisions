@@ -1,0 +1,424 @@
+# Orange Walk — Belize Administrative Divisions
+
+> 83 localitys
+> Code: BZ04
+> Coordinates: 17.767, -88.854
+> Last updated: 2026-07-07. License: CC-BY-4.0.
+
+## Localitys
+
+### Andersons Camp
+
+Code: BZ04L048, Coordinates: 17.717, -89.017
+
+
+### August Pine Ridge
+
+Code: BZ04L017, Coordinates: 17.973, -88.725
+
+
+### Backlanding
+
+Code: BZ04L033, Coordinates: 17.838, -88.608
+
+
+### Blossom Bank
+
+Code: BZ04L068, Coordinates: 18.162, -88.493
+
+
+### Blue Creek Village
+
+Code: BZ04L066, Coordinates: 17.893, -88.89
+
+
+### Blumenfeld
+
+Code: BZ04L081, Coordinates: 17.864, -88.918
+
+
+### Burnham Hall
+
+Code: BZ04L060, Coordinates: 17.7, -88.667
+
+
+### Burnt Ground
+
+Code: BZ04L058, Coordinates: 17.385, -89.121
+
+
+### Campechito
+
+Code: BZ04L004, Coordinates: 18.157, -88.681
+
+
+### Canal Bank
+
+Code: BZ04L038, Coordinates: 17.682, -88.865
+
+
+### Carmelita
+
+Code: BZ04L067, Coordinates: 18.013, -88.543
+
+
+### Cashew Tree
+
+Code: BZ04L056, Coordinates: 17.983, -88.45
+
+
+### Cedar Crossing
+
+Code: BZ04L054, Coordinates: 17.691, -89.028
+
+
+### Chan Limon
+
+Code: BZ04L078, Coordinates: 17.362, -89.138
+
+
+### Chan Pine Ridge
+
+Code: BZ04L064, Coordinates: 18.037, -88.583
+
+
+### Chan Pond
+
+Code: BZ04L053, Coordinates: 17.4, -89.1
+
+
+### Cocos
+
+Code: BZ04L032, Coordinates: 18.224, -88.614
+
+
+### Corozal
+
+Code: BZ04L035, Coordinates: 17.405, -89.081
+
+
+### Corozalito
+
+Code: BZ04L042, Coordinates: 17.961, -88.803
+
+
+### Cowpen
+
+Code: BZ04L036, Coordinates: 18.108, -88.447
+
+
+### Dos Bocas
+
+Code: BZ04L062, Coordinates: 17.906, -88.853
+
+
+### Douglas
+
+Code: BZ04L016, Coordinates: 18.235, -88.601
+
+
+### Driving Camp
+
+Code: BZ04L009, Coordinates: 17.817, -88.817
+
+
+### Edenthal
+
+Code: BZ04L030, Coordinates: 17.927, -88.982
+
+
+### El Brazo
+
+Code: BZ04L027, Coordinates: 18.2, -88.617
+
+
+### Esperanza
+
+Code: BZ04L028, Coordinates: 17.378, -89.131
+
+
+### Gallon Jug
+
+Code: BZ04L006, Coordinates: 17.562, -89.047
+
+
+### Gnadenfeld
+
+Code: BZ04L074, Coordinates: 17.872, -88.917
+
+
+### Gnadenthal
+
+Code: BZ04L052, Coordinates: 17.881, -88.917
+
+
+### Gongora
+
+Code: BZ04L031, Coordinates: 17.7, -88.95
+
+
+### Guinea Grass
+
+Code: BZ04L043, Coordinates: 17.967, -88.598
+
+
+### Hill Bank
+
+Code: BZ04L007, Coordinates: 17.603, -88.692
+
+
+### Honey Camp
+
+Code: BZ04L065, Coordinates: 18.033, -88.45
+
+
+### Inda Vista
+
+Code: BZ04L011, Coordinates: 17.899, -88.891
+
+
+### Indian Church
+
+Code: BZ04L005, Coordinates: 17.754, -88.657
+
+
+### Kaway Camp
+
+Code: BZ04L045, Coordinates: 17.382, -89.066
+
+
+### Lagarto
+
+Code: BZ04L029, Coordinates: 17.397, -89.14
+
+
+### London
+
+Code: BZ04L049, Coordinates: 17.983, -88.433
+
+
+### Mammee Camp
+
+Code: BZ04L019, Coordinates: 17.397, -88.997
+
+
+### Narrows Landing
+
+Code: BZ04L023, Coordinates: 18.169, -88.506
+
+
+### Neustadt
+
+Code: BZ04L012, Coordinates: 17.907, -89.042
+
+
+### Nuendorf
+
+Code: BZ04L020, Coordinates: 17.898, -88.901
+
+
+### Nuevo San Juan
+
+Code: BZ04L059, Coordinates: 18.228, -88.581
+
+
+### Orange Walk
+
+Code: BZ04L002, Coordinates: 18.081, -88.563
+
+
+### Pascua Camp
+
+Code: BZ04L061, Coordinates: 17.404, -89.044
+
+
+### Pescado Camp
+
+Code: BZ04L046, Coordinates: 17.358, -89.107
+
+
+### Pettville
+
+Code: BZ04L047, Coordinates: 18.078, -88.539
+
+
+### Piedregal
+
+Code: BZ04L041, Coordinates: 17.379, -89.143
+
+
+### Quatro Leguas
+
+Code: BZ04L072, Coordinates: 17.917, -88.982
+
+
+### Ramonal
+
+Code: BZ04L025, Coordinates: 17.412, -89.132
+
+
+### Rancho
+
+Code: BZ04L076, Coordinates: 17.959, -88.372
+
+
+### Reinland
+
+Code: BZ04L013, Coordinates: 17.882, -88.882
+
+
+### Rejolla
+
+Code: BZ04L026, Coordinates: 17.419, -89.121
+
+
+### Rosita
+
+Code: BZ04L055, Coordinates: 17.887, -88.917
+
+
+### San Antonio
+
+Code: BZ04L044, Coordinates: 18.131, -88.674
+
+
+### San Estevan
+
+Code: BZ04L051, Coordinates: 18.154, -88.511
+
+
+### San Felipe
+
+Code: BZ04L015, Coordinates: 17.873, -88.773
+
+
+### San Jose
+
+Code: BZ04L077, Coordinates: 17.483, -88.933
+
+
+### San Jose
+
+Code: BZ04L083, Coordinates: 18.196, -88.571
+
+
+### San Jose Palmar
+
+Code: BZ04L073, Coordinates: 18.062, -88.563
+
+
+### San Juan Bank
+
+Code: BZ04L071, Coordinates: 17.986, -88.3
+
+
+### San Lazaro
+
+Code: BZ04L079, Coordinates: 18.038, -88.663
+
+
+### San Lorenzo
+
+Code: BZ04L063, Coordinates: 18.141, -88.622
+
+
+### San Luis
+
+Code: BZ04L034, Coordinates: 18.192, -88.603
+
+
+### San Pablo
+
+Code: BZ04L039, Coordinates: 18.211, -88.566
+
+
+### San Roman
+
+Code: BZ04L069, Coordinates: 18.192, -88.642
+
+
+### Santa Cruz
+
+Code: BZ04L040, Coordinates: 18.115, -88.706
+
+
+### Shipyard
+
+Code: BZ04L022, Coordinates: 17.894, -88.655
+
+
+### Sierra de Agua
+
+Code: BZ04L057, Coordinates: 17.544, -88.878
+
+
+### Spring Camp
+
+Code: BZ04L082, Coordinates: 17.408, -89.074
+
+
+### Tacistal
+
+Code: BZ04L021, Coordinates: 17.898, -88.758
+
+
+### Tower Hill
+
+Code: BZ04L001, Coordinates: 18.028, -88.557
+
+
+### Tres Brazos
+
+Code: BZ04L075, Coordinates: 18.053, -88.54
+
+
+### Tres Leguas
+
+Code: BZ04L008, Coordinates: 17.888, -88.957
+
+
+### Tres Leguas Mennonite Settlement
+
+Code: BZ04L014, Coordinates: 17.884, -88.917
+
+
+### Trial Farm
+
+Code: BZ04L080, Coordinates: 18.101, -88.566
+
+
+### Trinidad
+
+Code: BZ04L024, Coordinates: 18.024, -88.687
+
+
+### Vaqueros
+
+Code: BZ04L050, Coordinates: 17.98, -88.783
+
+
+### Wamil
+
+Code: BZ04L010, Coordinates: 17.544, -88.935
+
+
+### Warrie Camp
+
+Code: BZ04L070, Coordinates: 18.001, -88.32
+
+
+### Water Bank
+
+Code: BZ04L003, Coordinates: 17.783, -88.65
+
+
+### Xaxe Venic
+
+Code: BZ04L037, Coordinates: 17.533, -89.133
+
+
+### Xcanha
+
+Code: BZ04L018, Coordinates: 18.004, -88.358
+
+

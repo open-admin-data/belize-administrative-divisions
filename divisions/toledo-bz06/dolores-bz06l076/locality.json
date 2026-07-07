@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L076",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Dolores",
+    "en": "Dolores",
+    "slug": "dolores-bz06l076"
+  },
+  "code": {
+    "id": "BZ06L076",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.989",
+    "lon": "-89.211"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BZ02L040",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Valentin Camp",
+    "en": "Valentin Camp",
+    "slug": "valentin-camp-bz02l040"
+  },
+  "code": {
+    "id": "BZ02L040",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ02",
+    "level": 1,
+    "name": {
+      "local": "Cayo",
+      "en": "Cayo",
+      "slug": "cayo-bz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ02",
+      "level": 1,
+      "name": {
+        "local": "Cayo",
+        "en": "Cayo",
+        "slug": "cayo-bz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.766",
+    "lon": "-89.162"
+  },
+  "metadata": {},
+  "source": {}
+}

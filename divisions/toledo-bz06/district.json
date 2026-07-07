@@ -1,0 +1,33 @@
+{
+  "id": "BZ06",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Toledo",
+    "en": "Toledo",
+    "slug": "toledo-bz06"
+  },
+  "code": {
+    "id": "BZ06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 88
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.297",
+    "lon": "-88.87"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bz/districts/toledo-bz06/",
+    "api": "https://openadmindata.org/api/bz/"
+  }
+}

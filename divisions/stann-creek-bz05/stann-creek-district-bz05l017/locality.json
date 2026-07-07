@@ -1,0 +1,45 @@
+{
+  "id": "BZ05L017",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Stann Creek District",
+    "en": "Stann Creek District",
+    "slug": "stann-creek-district-bz05l017"
+  },
+  "code": {
+    "id": "BZ05L017",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ05",
+    "level": 1,
+    "name": {
+      "local": "Stann Creek",
+      "en": "Stann Creek",
+      "slug": "stann-creek-bz05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.833",
+    "lon": "-88.5"
+  },
+  "metadata": {},
+  "source": {}
+}

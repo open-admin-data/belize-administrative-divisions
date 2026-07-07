@@ -1,0 +1,21 @@
+# Ramonal
+
+[Home](../../../) &gt; [Orange Walk](../) > **Ramonal**
+
+Ramonal is a locality in Belize, under Orange Walk.
+
+## Overview
+
+| Item | Details |
+|------|---------|
+| Code | BZ04L025 |
+| Coordinates | 17.412, -89.132 |
+| Parent | Orange Walk |
+
+## Data Files
+
+- [locality.json](locality.json) — Locality metadata
+
+---
+
+<- Back to [Orange Walk](../)

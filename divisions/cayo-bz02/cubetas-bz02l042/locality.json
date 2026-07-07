@@ -1,0 +1,45 @@
+{
+  "id": "BZ02L042",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Cubetas",
+    "en": "Cubetas",
+    "slug": "cubetas-bz02l042"
+  },
+  "code": {
+    "id": "BZ02L042",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ02",
+    "level": 1,
+    "name": {
+      "local": "Cayo",
+      "en": "Cayo",
+      "slug": "cayo-bz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ02",
+      "level": 1,
+      "name": {
+        "local": "Cayo",
+        "en": "Cayo",
+        "slug": "cayo-bz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.785",
+    "lon": "-89.01"
+  },
+  "metadata": {},
+  "source": {}
+}

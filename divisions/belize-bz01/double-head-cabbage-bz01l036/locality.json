@@ -1,0 +1,45 @@
+{
+  "id": "BZ01L036",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Double Head Cabbage",
+    "en": "Double Head Cabbage",
+    "slug": "double-head-cabbage-bz01l036"
+  },
+  "code": {
+    "id": "BZ01L036",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ01",
+    "level": 1,
+    "name": {
+      "local": "Belize",
+      "en": "Belize",
+      "slug": "belize-bz01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.544",
+    "lon": "-88.557"
+  },
+  "metadata": {},
+  "source": {}
+}

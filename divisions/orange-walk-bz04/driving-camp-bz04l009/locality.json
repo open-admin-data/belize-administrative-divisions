@@ -1,0 +1,45 @@
+{
+  "id": "BZ04L009",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Driving Camp",
+    "en": "Driving Camp",
+    "slug": "driving-camp-bz04l009"
+  },
+  "code": {
+    "id": "BZ04L009",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ04",
+    "level": 1,
+    "name": {
+      "local": "Orange Walk",
+      "en": "Orange Walk",
+      "slug": "orange-walk-bz04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ04",
+      "level": 1,
+      "name": {
+        "local": "Orange Walk",
+        "en": "Orange Walk",
+        "slug": "orange-walk-bz04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.817",
+    "lon": "-88.817"
+  },
+  "metadata": {},
+  "source": {}
+}

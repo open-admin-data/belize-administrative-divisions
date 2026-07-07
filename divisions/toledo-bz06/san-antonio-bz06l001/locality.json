@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L001",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "San Antonio",
+    "en": "San Antonio",
+    "slug": "san-antonio-bz06l001"
+  },
+  "code": {
+    "id": "BZ06L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.244",
+    "lon": "-89.024"
+  },
+  "metadata": {},
+  "source": {}
+}

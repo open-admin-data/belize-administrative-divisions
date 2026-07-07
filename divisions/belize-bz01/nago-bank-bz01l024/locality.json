@@ -1,0 +1,45 @@
+{
+  "id": "BZ01L024",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Nago Bank",
+    "en": "Nago Bank",
+    "slug": "nago-bank-bz01l024"
+  },
+  "code": {
+    "id": "BZ01L024",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ01",
+    "level": 1,
+    "name": {
+      "local": "Belize",
+      "en": "Belize",
+      "slug": "belize-bz01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.88",
+    "lon": "-88.291"
+  },
+  "metadata": {},
+  "source": {}
+}

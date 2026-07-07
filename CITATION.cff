@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Belize Administrative Divisions Dataset"
+version: "2026.07"
+date-released: "2026-07-07"
+url: "https://github.com/open-admin-data/belize-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/belize-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - belize
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Belize's administrative hierarchy:
+  6 districts, 462 localitys.
+  Bilingual with coordinates and postal codes where available.

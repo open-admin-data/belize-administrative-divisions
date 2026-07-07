@@ -1,0 +1,45 @@
+{
+  "id": "BZ03L031",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Progresso",
+    "en": "Progresso",
+    "slug": "progresso-bz03l031"
+  },
+  "code": {
+    "id": "BZ03L031",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ03",
+    "level": 1,
+    "name": {
+      "local": "Corozal",
+      "en": "Corozal",
+      "slug": "corozal-bz03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ03",
+      "level": 1,
+      "name": {
+        "local": "Corozal",
+        "en": "Corozal",
+        "slug": "corozal-bz03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.231",
+    "lon": "-88.411"
+  },
+  "metadata": {},
+  "source": {}
+}

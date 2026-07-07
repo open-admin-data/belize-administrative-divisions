@@ -1,0 +1,45 @@
+{
+  "id": "BZ05L034",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Mullins River",
+    "en": "Mullins River",
+    "slug": "mullins-river-bz05l034"
+  },
+  "code": {
+    "id": "BZ05L034",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ05",
+    "level": 1,
+    "name": {
+      "local": "Stann Creek",
+      "en": "Stann Creek",
+      "slug": "stann-creek-bz05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.105",
+    "lon": "-88.301"
+  },
+  "metadata": {},
+  "source": {}
+}

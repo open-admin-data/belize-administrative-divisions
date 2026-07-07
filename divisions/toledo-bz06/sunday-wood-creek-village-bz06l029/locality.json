@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L029",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Sunday Wood Creek Village",
+    "en": "Sunday Wood Creek Village",
+    "slug": "sunday-wood-creek-village-bz06l029"
+  },
+  "code": {
+    "id": "BZ06L029",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.039",
+    "lon": "-89.029"
+  },
+  "metadata": {},
+  "source": {}
+}

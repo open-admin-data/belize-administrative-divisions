@@ -1,0 +1,45 @@
+{
+  "id": "BZ02L001",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "San Ignacio",
+    "en": "San Ignacio",
+    "slug": "san-ignacio-bz02l001"
+  },
+  "code": {
+    "id": "BZ02L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ02",
+    "level": 1,
+    "name": {
+      "local": "Cayo",
+      "en": "Cayo",
+      "slug": "cayo-bz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ02",
+      "level": 1,
+      "name": {
+        "local": "Cayo",
+        "en": "Cayo",
+        "slug": "cayo-bz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.156",
+    "lon": "-89.071"
+  },
+  "metadata": {},
+  "source": {}
+}

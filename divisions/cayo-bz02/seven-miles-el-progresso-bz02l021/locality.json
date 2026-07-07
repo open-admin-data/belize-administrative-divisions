@@ -1,0 +1,45 @@
+{
+  "id": "BZ02L021",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Seven Miles El Progresso",
+    "en": "Seven Miles El Progresso",
+    "slug": "seven-miles-el-progresso-bz02l021"
+  },
+  "code": {
+    "id": "BZ02L021",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ02",
+    "level": 1,
+    "name": {
+      "local": "Cayo",
+      "en": "Cayo",
+      "slug": "cayo-bz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ02",
+      "level": 1,
+      "name": {
+        "local": "Cayo",
+        "en": "Cayo",
+        "slug": "cayo-bz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.102",
+    "lon": "-88.949"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L050",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Graham Creek",
+    "en": "Graham Creek",
+    "slug": "graham-creek-bz06l050"
+  },
+  "code": {
+    "id": "BZ06L050",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.929",
+    "lon": "-89.112"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L058",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "San Pedro",
+    "en": "San Pedro",
+    "slug": "san-pedro-bz06l058"
+  },
+  "code": {
+    "id": "BZ06L058",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.272",
+    "lon": "-88.954"
+  },
+  "metadata": {},
+  "source": {}
+}

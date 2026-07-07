@@ -1,0 +1,33 @@
+{
+  "id": "BZ03",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Corozal",
+    "en": "Corozal",
+    "slug": "corozal-bz03"
+  },
+  "code": {
+    "id": "BZ03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 67
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.238",
+    "lon": "-88.321"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bz/districts/corozal-bz03/",
+    "api": "https://openadmindata.org/api/bz/"
+  }
+}

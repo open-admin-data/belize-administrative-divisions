@@ -1,0 +1,45 @@
+{
+  "id": "BZ05L018",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Glover's Reef Atoll",
+    "en": "Glover's Reef Atoll",
+    "slug": "glover-s-reef-atoll-bz05l018"
+  },
+  "code": {
+    "id": "BZ05L018",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ05",
+    "level": 1,
+    "name": {
+      "local": "Stann Creek",
+      "en": "Stann Creek",
+      "slug": "stann-creek-bz05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.797",
+    "lon": "-87.805"
+  },
+  "metadata": {},
+  "source": {}
+}

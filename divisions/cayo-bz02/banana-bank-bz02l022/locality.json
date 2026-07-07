@@ -1,0 +1,45 @@
+{
+  "id": "BZ02L022",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Banana Bank",
+    "en": "Banana Bank",
+    "slug": "banana-bank-bz02l022"
+  },
+  "code": {
+    "id": "BZ02L022",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ02",
+    "level": 1,
+    "name": {
+      "local": "Cayo",
+      "en": "Cayo",
+      "slug": "cayo-bz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ02",
+      "level": 1,
+      "name": {
+        "local": "Cayo",
+        "en": "Cayo",
+        "slug": "cayo-bz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.319",
+    "lon": "-88.781"
+  },
+  "metadata": {},
+  "source": {}
+}

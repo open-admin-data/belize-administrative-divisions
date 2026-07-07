@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L040",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Santa Rosea",
+    "en": "Santa Rosea",
+    "slug": "santa-rosea-bz06l040"
+  },
+  "code": {
+    "id": "BZ06L040",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.278",
+    "lon": "-89.199"
+  },
+  "metadata": {},
+  "source": {}
+}

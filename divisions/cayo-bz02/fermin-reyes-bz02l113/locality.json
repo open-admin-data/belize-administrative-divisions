@@ -1,0 +1,45 @@
+{
+  "id": "BZ02L113",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Fermin Reyes",
+    "en": "Fermin Reyes",
+    "slug": "fermin-reyes-bz02l113"
+  },
+  "code": {
+    "id": "BZ02L113",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ02",
+    "level": 1,
+    "name": {
+      "local": "Cayo",
+      "en": "Cayo",
+      "slug": "cayo-bz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ02",
+      "level": 1,
+      "name": {
+        "local": "Cayo",
+        "en": "Cayo",
+        "slug": "cayo-bz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.259",
+    "lon": "-89.054"
+  },
+  "metadata": {},
+  "source": {}
+}

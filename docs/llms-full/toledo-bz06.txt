@@ -1,0 +1,449 @@
+# Toledo — Belize Administrative Divisions
+
+> 88 localitys
+> Code: BZ06
+> Coordinates: 16.297, -88.87
+> Last updated: 2026-07-07. License: CC-BY-4.0.
+
+## Localitys
+
+### Aguacate
+
+Code: BZ06L037, Coordinates: 16.162, -89.094
+
+
+### Barranco
+
+Code: BZ06L087, Coordinates: 16, -88.917
+
+
+### Beattie Pen
+
+Code: BZ06L008, Coordinates: 16.409, -88.713
+
+
+### Big Fall
+
+Code: BZ06L002, Coordinates: 16.25, -88.883
+
+
+### Blue Creek Village
+
+Code: BZ06L068, Coordinates: 16.198, -89.042
+
+
+### Boom Creek
+
+Code: BZ06L079, Coordinates: 16.073, -88.907
+
+
+### Burgos
+
+Code: BZ06L038, Coordinates: 16.445, -89.11
+
+
+### Cabro
+
+Code: BZ06L048, Coordinates: 16.401, -89.067
+
+
+### Calera Camp
+
+Code: BZ06L074, Coordinates: 16.532, -88.781
+
+
+### Campamento Union
+
+Code: BZ06L021, Coordinates: 16.396, -89.142
+
+
+### Cattle Landing
+
+Code: BZ06L044, Coordinates: 16.119, -88.795
+
+
+### Chan Bank
+
+Code: BZ06L069, Coordinates: 16.539, -88.702
+
+
+### Chan Quebrada
+
+Code: BZ06L064, Coordinates: 16.517, -88.685
+
+
+### Conejo
+
+Code: BZ06L063, Coordinates: 16.041, -89.002
+
+
+### Corozon
+
+Code: BZ06L071, Coordinates: 16.055, -89.124
+
+
+### Crique Jute
+
+Code: BZ06L084, Coordinates: 16.267, -89.017
+
+
+### Crique Sarco
+
+Code: BZ06L057, Coordinates: 15.983, -89.1
+
+
+### Dolores
+
+Code: BZ06L076, Coordinates: 15.989, -89.211
+
+
+### Esparasca
+
+Code: BZ06L027, Coordinates: 16.439, -88.524
+
+
+### Esperanza
+
+Code: BZ06L059, Coordinates: 16.498, -88.871
+
+
+### Esperanza Camp
+
+Code: BZ06L082, Coordinates: 16.417, -89.023
+
+
+### Esperino
+
+Code: BZ06L009, Coordinates: 16.291, -89.199
+
+
+### Esporanza
+
+Code: BZ06L088, Coordinates: 16.249, -88.899
+
+
+### Forest Home
+
+Code: BZ06L065, Coordinates: 16.139, -88.833
+
+
+### Golden Stream Village
+
+Code: BZ06L030, Coordinates: 16.363, -88.805
+
+
+### Graham Creek
+
+Code: BZ06L050, Coordinates: 15.929, -89.112
+
+
+### Hamidli Creek Settlement
+
+Code: BZ06L077, Coordinates: 16.22, -88.902
+
+
+### Happy Farms Village
+
+Code: BZ06L028, Coordinates: 15.91, -89.189
+
+
+### Hellgate
+
+Code: BZ06L010, Coordinates: 16.361, -88.797
+
+
+### Hopital
+
+Code: BZ06L073, Coordinates: 16.467, -88.967
+
+
+### Indian Creek Village
+
+Code: BZ06L022, Coordinates: 16.315, -88.832
+
+
+### Jacinto Landing
+
+Code: BZ06L070, Coordinates: 16.167, -88.85
+
+
+### Jalacte
+
+Code: BZ06L052, Coordinates: 16.158, -89.147
+
+
+### Jimmy Cut
+
+Code: BZ06L067, Coordinates: 16.294, -89.041
+
+
+### Jordan
+
+Code: BZ06L026, Coordinates: 16.154, -89.015
+
+
+### Joventud
+
+Code: BZ06L020, Coordinates: 16.115, -89.167
+
+
+### Lagoona
+
+Code: BZ06L055, Coordinates: 16.169, -88.938
+
+
+### Machaca
+
+Code: BZ06L066, Coordinates: 16.14, -89.115
+
+
+### Machaca Camp
+
+Code: BZ06L086, Coordinates: 16.199, -88.889
+
+
+### Medina Bank
+
+Code: BZ06L019, Coordinates: 16.444, -88.742
+
+
+### Medway City Main Village
+
+Code: BZ06L014, Coordinates: 16.06, -88.951
+
+
+### Melvin&#39;s Bank
+
+Code: BZ06L051, Coordinates: 16.443, -88.637
+
+
+### Metchekin
+
+Code: BZ06L039, Coordinates: 15.972, -89.145
+
+
+### Monkey River Town
+
+Code: BZ06L047, Coordinates: 16.362, -88.485
+
+
+### Na Luum Ca
+
+Code: BZ06L085, Coordinates: 16.285, -89.082
+
+
+### Nafreda
+
+Code: BZ06L025, Coordinates: 16.239, -88.991
+
+
+### Nasario Perez
+
+Code: BZ06L072, Coordinates: 16.431, -89.137
+
+
+### New Haven
+
+Code: BZ06L043, Coordinates: 16.254, -88.591
+
+
+### New Mahbilla
+
+Code: BZ06L023, Coordinates: 16.105, -89.08
+
+
+### Nimu Punit
+
+Code: BZ06L032, Coordinates: 16.321, -88.816
+
+
+### Old Mabilha
+
+Code: BZ06L024, Coordinates: 16.107, -89.096
+
+
+### Old Marbel Ha
+
+Code: BZ06L011, Coordinates: 16.1, -89.099
+
+
+### Otoxha Village
+
+Code: BZ06L016, Coordinates: 16.021, -89.176
+
+
+### Palmar Camp
+
+Code: BZ06L042, Coordinates: 16.449, -88.882
+
+
+### Perry Bank
+
+Code: BZ06L012, Coordinates: 16.61, -88.577
+
+
+### Piebra
+
+Code: BZ06L056, Coordinates: 16.104, -88.939
+
+
+### Pueblo Viejo
+
+Code: BZ06L054, Coordinates: 16.205, -89.142
+
+
+### Punta Gorda
+
+Code: BZ06L004, Coordinates: 16.098, -88.81
+
+
+### Ranger Camp
+
+Code: BZ06L006, Coordinates: 16.479, -88.805
+
+
+### Rice Station
+
+Code: BZ06L031, Coordinates: 16.136, -88.844
+
+
+### Rio Blanco
+
+Code: BZ06L060, Coordinates: 16.23, -89.109
+
+
+### Rito Bonillo
+
+Code: BZ06L017, Coordinates: 16.428, -89.114
+
+
+### Saint Vincent Block
+
+Code: BZ06L034, Coordinates: 16.114, -88.827
+
+
+### San Antonia
+
+Code: BZ06L081, Coordinates: 16.1, -88.933
+
+
+### San Antonio
+
+Code: BZ06L001, Coordinates: 16.244, -89.024
+
+
+### San Benito Poite
+
+Code: BZ06L080, Coordinates: 16.113, -89.186
+
+
+### San Felipe
+
+Code: BZ06L053, Coordinates: 16.133, -88.905
+
+
+### San Jose
+
+Code: BZ06L018, Coordinates: 16.267, -89.094
+
+
+### San Lucas
+
+Code: BZ06L046, Coordinates: 16.077, -89.099
+
+
+### San Margos
+
+Code: BZ06L049, Coordinates: 16.217, -88.901
+
+
+### San Miguel
+
+Code: BZ06L062, Coordinates: 16.293, -88.932
+
+
+### San Pedro
+
+Code: BZ06L058, Coordinates: 16.272, -88.954
+
+
+### San Pedro Landing
+
+Code: BZ06L033, Coordinates: 15.938, -89.204
+
+
+### San Vincente
+
+Code: BZ06L075, Coordinates: 16.239, -89.2
+
+
+### Santa Anna
+
+Code: BZ06L045, Coordinates: 16.104, -88.954
+
+
+### Santa Cruz
+
+Code: BZ06L007, Coordinates: 16.234, -89.077
+
+
+### Santa Cruz
+
+Code: BZ06L015, Coordinates: 16.184, -89.205
+
+
+### Santa Rosea
+
+Code: BZ06L040, Coordinates: 16.278, -89.199
+
+
+### Santa Theresa
+
+Code: BZ06L083, Coordinates: 16.133, -89.05
+
+
+### Santiago Jalacte
+
+Code: BZ06L061, Coordinates: 16.245, -89.202
+
+
+### Solomon Camp
+
+Code: BZ06L078, Coordinates: 16.558, -88.757
+
+
+### Sunday Wood Creek Village
+
+Code: BZ06L029, Coordinates: 16.039, -89.029
+
+
+### Teakettle Camp
+
+Code: BZ06L005, Coordinates: 16.514, -88.831
+
+
+### Toledo Settlement
+
+Code: BZ06L003, Coordinates: 16.133, -88.817
+
+
+### Trio Camp
+
+Code: BZ06L041, Coordinates: 16.585, -88.67
+
+
+### Trio Village
+
+Code: BZ06L035, Coordinates: 16.521, -88.654
+
+
+### Waha Leaf Camp
+
+Code: BZ06L036, Coordinates: 16.594, -88.647
+
+
+### Xpicilha Village
+
+Code: BZ06L013, Coordinates: 16.029, -89.213
+
+

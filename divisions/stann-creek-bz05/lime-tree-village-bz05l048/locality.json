@@ -1,0 +1,45 @@
+{
+  "id": "BZ05L048",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Lime Tree Village",
+    "en": "Lime Tree Village",
+    "slug": "lime-tree-village-bz05l048"
+  },
+  "code": {
+    "id": "BZ05L048",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ05",
+    "level": 1,
+    "name": {
+      "local": "Stann Creek",
+      "en": "Stann Creek",
+      "slug": "stann-creek-bz05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.559",
+    "lon": "-88.435"
+  },
+  "metadata": {},
+  "source": {}
+}

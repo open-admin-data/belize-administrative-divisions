@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L039",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Metchekin",
+    "en": "Metchekin",
+    "slug": "metchekin-bz06l039"
+  },
+  "code": {
+    "id": "BZ06L039",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.972",
+    "lon": "-89.145"
+  },
+  "metadata": {},
+  "source": {}
+}

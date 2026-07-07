@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L025",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Nafreda",
+    "en": "Nafreda",
+    "slug": "nafreda-bz06l025"
+  },
+  "code": {
+    "id": "BZ06L025",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.239",
+    "lon": "-88.991"
+  },
+  "metadata": {},
+  "source": {}
+}

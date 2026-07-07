@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L085",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Na Luum Ca",
+    "en": "Na Luum Ca",
+    "slug": "na-luum-ca-bz06l085"
+  },
+  "code": {
+    "id": "BZ06L085",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.285",
+    "lon": "-89.082"
+  },
+  "metadata": {},
+  "source": {}
+}

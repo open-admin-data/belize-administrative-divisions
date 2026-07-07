@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L003",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Toledo Settlement",
+    "en": "Toledo Settlement",
+    "slug": "toledo-settlement-bz06l003"
+  },
+  "code": {
+    "id": "BZ06L003",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.133",
+    "lon": "-88.817"
+  },
+  "metadata": {},
+  "source": {}
+}

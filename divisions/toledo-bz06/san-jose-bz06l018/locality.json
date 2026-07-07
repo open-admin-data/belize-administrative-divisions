@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L018",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "San Jose",
+    "en": "San Jose",
+    "slug": "san-jose-bz06l018"
+  },
+  "code": {
+    "id": "BZ06L018",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.267",
+    "lon": "-89.094"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L052",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Jalacte",
+    "en": "Jalacte",
+    "slug": "jalacte-bz06l052"
+  },
+  "code": {
+    "id": "BZ06L052",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.158",
+    "lon": "-89.147"
+  },
+  "metadata": {},
+  "source": {}
+}

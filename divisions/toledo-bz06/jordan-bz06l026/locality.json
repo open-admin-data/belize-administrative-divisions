@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L026",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Jordan",
+    "en": "Jordan",
+    "slug": "jordan-bz06l026"
+  },
+  "code": {
+    "id": "BZ06L026",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.154",
+    "lon": "-89.015"
+  },
+  "metadata": {},
+  "source": {}
+}

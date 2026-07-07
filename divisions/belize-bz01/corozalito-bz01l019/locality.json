@@ -1,0 +1,45 @@
+{
+  "id": "BZ01L019",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Corozalito",
+    "en": "Corozalito",
+    "slug": "corozalito-bz01l019"
+  },
+  "code": {
+    "id": "BZ01L019",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ01",
+    "level": 1,
+    "name": {
+      "local": "Belize",
+      "en": "Belize",
+      "slug": "belize-bz01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.839",
+    "lon": "-88.274"
+  },
+  "metadata": {},
+  "source": {}
+}

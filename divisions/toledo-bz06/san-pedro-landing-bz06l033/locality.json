@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L033",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "San Pedro Landing",
+    "en": "San Pedro Landing",
+    "slug": "san-pedro-landing-bz06l033"
+  },
+  "code": {
+    "id": "BZ06L033",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.938",
+    "lon": "-89.204"
+  },
+  "metadata": {},
+  "source": {}
+}

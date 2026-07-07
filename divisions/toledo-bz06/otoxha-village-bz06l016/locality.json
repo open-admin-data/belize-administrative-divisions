@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L016",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Otoxha Village",
+    "en": "Otoxha Village",
+    "slug": "otoxha-village-bz06l016"
+  },
+  "code": {
+    "id": "BZ06L016",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.021",
+    "lon": "-89.176"
+  },
+  "metadata": {},
+  "source": {}
+}

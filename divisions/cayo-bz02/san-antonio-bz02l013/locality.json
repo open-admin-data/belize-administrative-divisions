@@ -1,0 +1,45 @@
+{
+  "id": "BZ02L013",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "San Antonio",
+    "en": "San Antonio",
+    "slug": "san-antonio-bz02l013"
+  },
+  "code": {
+    "id": "BZ02L013",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ02",
+    "level": 1,
+    "name": {
+      "local": "Cayo",
+      "en": "Cayo",
+      "slug": "cayo-bz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ02",
+      "level": 1,
+      "name": {
+        "local": "Cayo",
+        "en": "Cayo",
+        "slug": "cayo-bz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.079",
+    "lon": "-89.024"
+  },
+  "metadata": {},
+  "source": {}
+}

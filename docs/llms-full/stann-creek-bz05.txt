@@ -1,0 +1,259 @@
+# Stann Creek — Belize Administrative Divisions
+
+> 50 localitys
+> Code: BZ05
+> Coordinates: 16.824, -88.48
+> Last updated: 2026-07-07. License: CC-BY-4.0.
+
+## Localitys
+
+### Alabama
+
+Code: BZ05L008, Coordinates: 16.67, -88.52
+
+
+### Alabama Wharf
+
+Code: BZ05L026, Coordinates: 16.533, -88.4
+
+
+### Alta Vista
+
+Code: BZ05L031, Coordinates: 16.994, -88.405
+
+
+### Big Creek
+
+Code: BZ05L038, Coordinates: 16.518, -88.406
+
+
+### Canada Hill
+
+Code: BZ05L036, Coordinates: 16.985, -88.327
+
+
+### Commerce Bight Village
+
+Code: BZ05L029, Coordinates: 16.868, -88.31
+
+
+### Cowpen
+
+Code: BZ05L015, Coordinates: 16.567, -88.533
+
+
+### Dancing Pool
+
+Code: BZ05L027, Coordinates: 16.831, -88.437
+
+
+### Dangriga
+
+Code: BZ05L002, Coordinates: 16.969, -88.232
+
+
+### Freetown Area
+
+Code: BZ05L049, Coordinates: 16.826, -88.291
+
+
+### Gales Point
+
+Code: BZ05L006, Coordinates: 17.171, -88.335
+
+
+### Georgetown
+
+Code: BZ05L021, Coordinates: 16.653, -88.508
+
+
+### Glover&#39;s Reef Atoll
+
+Code: BZ05L018, Coordinates: 16.797, -87.805
+
+
+### Guana Church Bank
+
+Code: BZ05L043, Coordinates: 16.852, -88.476
+
+
+### High Sand
+
+Code: BZ05L024, Coordinates: 16.826, -88.309
+
+
+### Hopkins
+
+Code: BZ05L011, Coordinates: 16.863, -88.284
+
+
+### Humming Bird Community
+
+Code: BZ05L045, Coordinates: 17.04, -88.531
+
+
+### Independence and Mango Creek
+
+Code: BZ05L012, Coordinates: 16.534, -88.419
+
+
+### Kendal
+
+Code: BZ05L028, Coordinates: 16.811, -88.382
+
+
+### Lagarto Bank
+
+Code: BZ05L047, Coordinates: 16.663, -88.59
+
+
+### Lime Tree Village
+
+Code: BZ05L048, Coordinates: 16.559, -88.435
+
+
+### Locust Bank
+
+Code: BZ05L001, Coordinates: 16.767, -88.483
+
+
+### Logan&#39;s Bank
+
+Code: BZ05L007, Coordinates: 16.489, -88.543
+
+
+### Mango Creek
+
+Code: BZ05L003, Coordinates: 16.536, -88.415
+
+
+### Maya Beach
+
+Code: BZ05L040, Coordinates: 16.615, -88.354
+
+
+### Maya Mopan
+
+Code: BZ05L025, Coordinates: 16.66, -88.525
+
+
+### Middle Bank
+
+Code: BZ05L014, Coordinates: 16.828, -88.309
+
+
+### Middlesex
+
+Code: BZ05L041, Coordinates: 17.04, -88.522
+
+
+### Mitchell&#39;s Run
+
+Code: BZ05L050, Coordinates: 16.85, -88.467
+
+
+### Mullins River
+
+Code: BZ05L034, Coordinates: 17.105, -88.301
+
+
+### New Home
+
+Code: BZ05L005, Coordinates: 16.741, -88.634
+
+
+### New Town
+
+Code: BZ05L039, Coordinates: 16.9, -88.267
+
+
+### Placencia
+
+Code: BZ05L033, Coordinates: 16.514, -88.366
+
+
+### Pomona
+
+Code: BZ05L037, Coordinates: 16.995, -88.374
+
+
+### Quarry Hill
+
+Code: BZ05L023, Coordinates: 16.997, -88.359
+
+
+### Rancho Grande
+
+Code: BZ05L013, Coordinates: 16.72, -88.6
+
+
+### Red Bank
+
+Code: BZ05L022, Coordinates: 16.763, -88.493
+
+
+### Red Bank Village
+
+Code: BZ05L046, Coordinates: 16.616, -88.559
+
+
+### Regalia
+
+Code: BZ05L042, Coordinates: 16.813, -88.332
+
+
+### Sale si Puede
+
+Code: BZ05L016, Coordinates: 16.713, -88.636
+
+
+### San Juan
+
+Code: BZ05L020, Coordinates: 16.568, -88.54
+
+
+### San Roman Village
+
+Code: BZ05L044, Coordinates: 16.653, -88.474
+
+
+### Santa Rosa Village
+
+Code: BZ05L019, Coordinates: 16.666, -88.454
+
+
+### Sarawina
+
+Code: BZ05L010, Coordinates: 16.971, -88.274
+
+
+### Seine Bight Village
+
+Code: BZ05L032, Coordinates: 16.569, -88.365
+
+
+### Silk Grass
+
+Code: BZ05L035, Coordinates: 16.883, -88.333
+
+
+### Silver Creek Camp
+
+Code: BZ05L030, Coordinates: 16.7, -88.467
+
+
+### Sittee
+
+Code: BZ05L004, Coordinates: 16.833, -88.283
+
+
+### Stann Creek District
+
+Code: BZ05L017, Coordinates: 16.833, -88.5
+
+
+### Trion Village
+
+Code: BZ05L009, Coordinates: 16.514, -88.606
+
+

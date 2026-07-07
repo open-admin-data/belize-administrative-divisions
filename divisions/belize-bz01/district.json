@@ -1,0 +1,33 @@
+{
+  "id": "BZ01",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Belize",
+    "en": "Belize",
+    "slug": "belize-bz01"
+  },
+  "code": {
+    "id": "BZ01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 54
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.553",
+    "lon": "-88.447"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bz/districts/belize-bz01/",
+    "api": "https://openadmindata.org/api/bz/"
+  }
+}

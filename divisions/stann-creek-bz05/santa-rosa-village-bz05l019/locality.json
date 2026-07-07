@@ -1,0 +1,45 @@
+{
+  "id": "BZ05L019",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Santa Rosa Village",
+    "en": "Santa Rosa Village",
+    "slug": "santa-rosa-village-bz05l019"
+  },
+  "code": {
+    "id": "BZ05L019",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ05",
+    "level": 1,
+    "name": {
+      "local": "Stann Creek",
+      "en": "Stann Creek",
+      "slug": "stann-creek-bz05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.666",
+    "lon": "-88.454"
+  },
+  "metadata": {},
+  "source": {}
+}

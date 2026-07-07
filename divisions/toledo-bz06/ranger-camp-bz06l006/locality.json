@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L006",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Ranger Camp",
+    "en": "Ranger Camp",
+    "slug": "ranger-camp-bz06l006"
+  },
+  "code": {
+    "id": "BZ06L006",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.479",
+    "lon": "-88.805"
+  },
+  "metadata": {},
+  "source": {}
+}

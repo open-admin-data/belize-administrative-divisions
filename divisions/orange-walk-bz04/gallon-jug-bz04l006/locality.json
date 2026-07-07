@@ -1,0 +1,45 @@
+{
+  "id": "BZ04L006",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Gallon Jug",
+    "en": "Gallon Jug",
+    "slug": "gallon-jug-bz04l006"
+  },
+  "code": {
+    "id": "BZ04L006",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ04",
+    "level": 1,
+    "name": {
+      "local": "Orange Walk",
+      "en": "Orange Walk",
+      "slug": "orange-walk-bz04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ04",
+      "level": 1,
+      "name": {
+        "local": "Orange Walk",
+        "en": "Orange Walk",
+        "slug": "orange-walk-bz04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.562",
+    "lon": "-89.047"
+  },
+  "metadata": {},
+  "source": {}
+}

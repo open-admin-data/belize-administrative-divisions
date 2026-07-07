@@ -1,0 +1,45 @@
+{
+  "id": "BZ04L017",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "August Pine Ridge",
+    "en": "August Pine Ridge",
+    "slug": "august-pine-ridge-bz04l017"
+  },
+  "code": {
+    "id": "BZ04L017",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ04",
+    "level": 1,
+    "name": {
+      "local": "Orange Walk",
+      "en": "Orange Walk",
+      "slug": "orange-walk-bz04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ04",
+      "level": 1,
+      "name": {
+        "local": "Orange Walk",
+        "en": "Orange Walk",
+        "slug": "orange-walk-bz04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.973",
+    "lon": "-88.725"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BZ02L075",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Garbutt's Falls",
+    "en": "Garbutt's Falls",
+    "slug": "garbutt-s-falls-bz02l075"
+  },
+  "code": {
+    "id": "BZ02L075",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ02",
+    "level": 1,
+    "name": {
+      "local": "Cayo",
+      "en": "Cayo",
+      "slug": "cayo-bz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ02",
+      "level": 1,
+      "name": {
+        "local": "Cayo",
+        "en": "Cayo",
+        "slug": "cayo-bz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.055",
+    "lon": "-89.145"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BZ02L052",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "San Pastor Camp",
+    "en": "San Pastor Camp",
+    "slug": "san-pastor-camp-bz02l052"
+  },
+  "code": {
+    "id": "BZ02L052",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ02",
+    "level": 1,
+    "name": {
+      "local": "Cayo",
+      "en": "Cayo",
+      "slug": "cayo-bz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ02",
+      "level": 1,
+      "name": {
+        "local": "Cayo",
+        "en": "Cayo",
+        "slug": "cayo-bz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.716",
+    "lon": "-88.99"
+  },
+  "metadata": {},
+  "source": {}
+}

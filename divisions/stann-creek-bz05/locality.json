@@ -1,0 +1,2252 @@
+[
+  {
+    "id": "BZ05L008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Alabama",
+      "en": "Alabama",
+      "slug": "alabama-bz05l008"
+    },
+    "code": {
+      "id": "BZ05L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.67",
+      "lon": "-88.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L026",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Alabama Wharf",
+      "en": "Alabama Wharf",
+      "slug": "alabama-wharf-bz05l026"
+    },
+    "code": {
+      "id": "BZ05L026",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.533",
+      "lon": "-88.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L031",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Alta Vista",
+      "en": "Alta Vista",
+      "slug": "alta-vista-bz05l031"
+    },
+    "code": {
+      "id": "BZ05L031",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.994",
+      "lon": "-88.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L038",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Big Creek",
+      "en": "Big Creek",
+      "slug": "big-creek-bz05l038"
+    },
+    "code": {
+      "id": "BZ05L038",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.518",
+      "lon": "-88.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L036",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Canada Hill",
+      "en": "Canada Hill",
+      "slug": "canada-hill-bz05l036"
+    },
+    "code": {
+      "id": "BZ05L036",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.985",
+      "lon": "-88.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L029",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Commerce Bight Village",
+      "en": "Commerce Bight Village",
+      "slug": "commerce-bight-village-bz05l029"
+    },
+    "code": {
+      "id": "BZ05L029",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.868",
+      "lon": "-88.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L015",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cowpen",
+      "en": "Cowpen",
+      "slug": "cowpen-bz05l015"
+    },
+    "code": {
+      "id": "BZ05L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.567",
+      "lon": "-88.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L027",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dancing Pool",
+      "en": "Dancing Pool",
+      "slug": "dancing-pool-bz05l027"
+    },
+    "code": {
+      "id": "BZ05L027",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.831",
+      "lon": "-88.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dangriga",
+      "en": "Dangriga",
+      "slug": "dangriga-bz05l002"
+    },
+    "code": {
+      "id": "BZ05L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.969",
+      "lon": "-88.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L049",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Freetown Area",
+      "en": "Freetown Area",
+      "slug": "freetown-area-bz05l049"
+    },
+    "code": {
+      "id": "BZ05L049",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.826",
+      "lon": "-88.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Gales Point",
+      "en": "Gales Point",
+      "slug": "gales-point-bz05l006"
+    },
+    "code": {
+      "id": "BZ05L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.171",
+      "lon": "-88.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L021",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Georgetown",
+      "en": "Georgetown",
+      "slug": "georgetown-bz05l021"
+    },
+    "code": {
+      "id": "BZ05L021",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.653",
+      "lon": "-88.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L018",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Glover's Reef Atoll",
+      "en": "Glover's Reef Atoll",
+      "slug": "glover-s-reef-atoll-bz05l018"
+    },
+    "code": {
+      "id": "BZ05L018",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.797",
+      "lon": "-87.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L043",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Guana Church Bank",
+      "en": "Guana Church Bank",
+      "slug": "guana-church-bank-bz05l043"
+    },
+    "code": {
+      "id": "BZ05L043",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.852",
+      "lon": "-88.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L024",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "High Sand",
+      "en": "High Sand",
+      "slug": "high-sand-bz05l024"
+    },
+    "code": {
+      "id": "BZ05L024",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.826",
+      "lon": "-88.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hopkins",
+      "en": "Hopkins",
+      "slug": "hopkins-bz05l011"
+    },
+    "code": {
+      "id": "BZ05L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.863",
+      "lon": "-88.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L045",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Humming Bird Community",
+      "en": "Humming Bird Community",
+      "slug": "humming-bird-community-bz05l045"
+    },
+    "code": {
+      "id": "BZ05L045",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.04",
+      "lon": "-88.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Independence and Mango Creek",
+      "en": "Independence and Mango Creek",
+      "slug": "independence-and-mango-creek-bz05l012"
+    },
+    "code": {
+      "id": "BZ05L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.534",
+      "lon": "-88.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L028",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kendal",
+      "en": "Kendal",
+      "slug": "kendal-bz05l028"
+    },
+    "code": {
+      "id": "BZ05L028",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.811",
+      "lon": "-88.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L047",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lagarto Bank",
+      "en": "Lagarto Bank",
+      "slug": "lagarto-bank-bz05l047"
+    },
+    "code": {
+      "id": "BZ05L047",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.663",
+      "lon": "-88.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L048",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lime Tree Village",
+      "en": "Lime Tree Village",
+      "slug": "lime-tree-village-bz05l048"
+    },
+    "code": {
+      "id": "BZ05L048",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.559",
+      "lon": "-88.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Locust Bank",
+      "en": "Locust Bank",
+      "slug": "locust-bank-bz05l001"
+    },
+    "code": {
+      "id": "BZ05L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.767",
+      "lon": "-88.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Logan's Bank",
+      "en": "Logan's Bank",
+      "slug": "logan-s-bank-bz05l007"
+    },
+    "code": {
+      "id": "BZ05L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.489",
+      "lon": "-88.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mango Creek",
+      "en": "Mango Creek",
+      "slug": "mango-creek-bz05l003"
+    },
+    "code": {
+      "id": "BZ05L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.536",
+      "lon": "-88.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L040",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Maya Beach",
+      "en": "Maya Beach",
+      "slug": "maya-beach-bz05l040"
+    },
+    "code": {
+      "id": "BZ05L040",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.615",
+      "lon": "-88.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L025",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Maya Mopan",
+      "en": "Maya Mopan",
+      "slug": "maya-mopan-bz05l025"
+    },
+    "code": {
+      "id": "BZ05L025",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.66",
+      "lon": "-88.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L014",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Middle Bank",
+      "en": "Middle Bank",
+      "slug": "middle-bank-bz05l014"
+    },
+    "code": {
+      "id": "BZ05L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.828",
+      "lon": "-88.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L041",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Middlesex",
+      "en": "Middlesex",
+      "slug": "middlesex-bz05l041"
+    },
+    "code": {
+      "id": "BZ05L041",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.04",
+      "lon": "-88.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L050",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mitchell's Run",
+      "en": "Mitchell's Run",
+      "slug": "mitchell-s-run-bz05l050"
+    },
+    "code": {
+      "id": "BZ05L050",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.85",
+      "lon": "-88.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L034",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mullins River",
+      "en": "Mullins River",
+      "slug": "mullins-river-bz05l034"
+    },
+    "code": {
+      "id": "BZ05L034",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.105",
+      "lon": "-88.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "New Home",
+      "en": "New Home",
+      "slug": "new-home-bz05l005"
+    },
+    "code": {
+      "id": "BZ05L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.741",
+      "lon": "-88.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L039",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "New Town",
+      "en": "New Town",
+      "slug": "new-town-bz05l039"
+    },
+    "code": {
+      "id": "BZ05L039",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.9",
+      "lon": "-88.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L033",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Placencia",
+      "en": "Placencia",
+      "slug": "placencia-bz05l033"
+    },
+    "code": {
+      "id": "BZ05L033",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.514",
+      "lon": "-88.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L037",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pomona",
+      "en": "Pomona",
+      "slug": "pomona-bz05l037"
+    },
+    "code": {
+      "id": "BZ05L037",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.995",
+      "lon": "-88.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L023",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Quarry Hill",
+      "en": "Quarry Hill",
+      "slug": "quarry-hill-bz05l023"
+    },
+    "code": {
+      "id": "BZ05L023",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.997",
+      "lon": "-88.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L013",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rancho Grande",
+      "en": "Rancho Grande",
+      "slug": "rancho-grande-bz05l013"
+    },
+    "code": {
+      "id": "BZ05L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.72",
+      "lon": "-88.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L022",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Red Bank",
+      "en": "Red Bank",
+      "slug": "red-bank-bz05l022"
+    },
+    "code": {
+      "id": "BZ05L022",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.763",
+      "lon": "-88.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L046",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Red Bank Village",
+      "en": "Red Bank Village",
+      "slug": "red-bank-village-bz05l046"
+    },
+    "code": {
+      "id": "BZ05L046",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.616",
+      "lon": "-88.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L042",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Regalia",
+      "en": "Regalia",
+      "slug": "regalia-bz05l042"
+    },
+    "code": {
+      "id": "BZ05L042",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.813",
+      "lon": "-88.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L016",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sale si Puede",
+      "en": "Sale si Puede",
+      "slug": "sale-si-puede-bz05l016"
+    },
+    "code": {
+      "id": "BZ05L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.713",
+      "lon": "-88.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L020",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "San Juan",
+      "en": "San Juan",
+      "slug": "san-juan-bz05l020"
+    },
+    "code": {
+      "id": "BZ05L020",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.568",
+      "lon": "-88.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L044",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "San Roman Village",
+      "en": "San Roman Village",
+      "slug": "san-roman-village-bz05l044"
+    },
+    "code": {
+      "id": "BZ05L044",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.653",
+      "lon": "-88.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L019",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Santa Rosa Village",
+      "en": "Santa Rosa Village",
+      "slug": "santa-rosa-village-bz05l019"
+    },
+    "code": {
+      "id": "BZ05L019",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.666",
+      "lon": "-88.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sarawina",
+      "en": "Sarawina",
+      "slug": "sarawina-bz05l010"
+    },
+    "code": {
+      "id": "BZ05L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.971",
+      "lon": "-88.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L032",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Seine Bight Village",
+      "en": "Seine Bight Village",
+      "slug": "seine-bight-village-bz05l032"
+    },
+    "code": {
+      "id": "BZ05L032",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.569",
+      "lon": "-88.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L035",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Silk Grass",
+      "en": "Silk Grass",
+      "slug": "silk-grass-bz05l035"
+    },
+    "code": {
+      "id": "BZ05L035",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.883",
+      "lon": "-88.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L030",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Silver Creek Camp",
+      "en": "Silver Creek Camp",
+      "slug": "silver-creek-camp-bz05l030"
+    },
+    "code": {
+      "id": "BZ05L030",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.7",
+      "lon": "-88.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sittee",
+      "en": "Sittee",
+      "slug": "sittee-bz05l004"
+    },
+    "code": {
+      "id": "BZ05L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.833",
+      "lon": "-88.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L017",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Stann Creek District",
+      "en": "Stann Creek District",
+      "slug": "stann-creek-district-bz05l017"
+    },
+    "code": {
+      "id": "BZ05L017",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.833",
+      "lon": "-88.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ05L009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Trion Village",
+      "en": "Trion Village",
+      "slug": "trion-village-bz05l009"
+    },
+    "code": {
+      "id": "BZ05L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ05",
+        "level": 1,
+        "name": {
+          "local": "Stann Creek",
+          "en": "Stann Creek",
+          "slug": "stann-creek-bz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.514",
+      "lon": "-88.606"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

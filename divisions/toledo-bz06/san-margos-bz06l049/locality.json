@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L049",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "San Margos",
+    "en": "San Margos",
+    "slug": "san-margos-bz06l049"
+  },
+  "code": {
+    "id": "BZ06L049",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.217",
+    "lon": "-88.901"
+  },
+  "metadata": {},
+  "source": {}
+}

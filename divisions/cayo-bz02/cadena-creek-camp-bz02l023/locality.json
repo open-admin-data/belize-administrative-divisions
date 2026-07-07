@@ -1,0 +1,45 @@
+{
+  "id": "BZ02L023",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Cadena Creek Camp",
+    "en": "Cadena Creek Camp",
+    "slug": "cadena-creek-camp-bz02l023"
+  },
+  "code": {
+    "id": "BZ02L023",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ02",
+    "level": 1,
+    "name": {
+      "local": "Cayo",
+      "en": "Cayo",
+      "slug": "cayo-bz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ02",
+      "level": 1,
+      "name": {
+        "local": "Cayo",
+        "en": "Cayo",
+        "slug": "cayo-bz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.283",
+    "lon": "-89.1"
+  },
+  "metadata": {},
+  "source": {}
+}

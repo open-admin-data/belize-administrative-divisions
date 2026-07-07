@@ -1,0 +1,23 @@
+# Belize Administrative Divisions — Full Reference
+
+> Last updated: 2026-07-07. License: CC-BY-4.0.
+
+## Per-District Data Files
+
+- [Belize](https://github.com/open-admin-data/belize-administrative-divisions/blob/main/docs/llms-full/belize-bz01.txt) — 54 localitys
+- [Cayo](https://github.com/open-admin-data/belize-administrative-divisions/blob/main/docs/llms-full/cayo-bz02.txt) — 120 localitys
+- [Corozal](https://github.com/open-admin-data/belize-administrative-divisions/blob/main/docs/llms-full/corozal-bz03.txt) — 67 localitys
+- [Orange Walk](https://github.com/open-admin-data/belize-administrative-divisions/blob/main/docs/llms-full/orange-walk-bz04.txt) — 83 localitys
+- [Stann Creek](https://github.com/open-admin-data/belize-administrative-divisions/blob/main/docs/llms-full/stann-creek-bz05.txt) — 50 localitys
+- [Toledo](https://github.com/open-admin-data/belize-administrative-divisions/blob/main/docs/llms-full/toledo-bz06.txt) — 88 localitys
+
+## Summary
+
+| District | Localitys | 
+|---|---|
+| Belize | 54 | 
+| Cayo | 120 | 
+| Corozal | 67 | 
+| Orange Walk | 83 | 
+| Stann Creek | 50 | 
+| Toledo | 88 | 

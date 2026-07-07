@@ -1,0 +1,45 @@
+{
+  "id": "BZ04L026",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Rejolla",
+    "en": "Rejolla",
+    "slug": "rejolla-bz04l026"
+  },
+  "code": {
+    "id": "BZ04L026",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ04",
+    "level": 1,
+    "name": {
+      "local": "Orange Walk",
+      "en": "Orange Walk",
+      "slug": "orange-walk-bz04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ04",
+      "level": 1,
+      "name": {
+        "local": "Orange Walk",
+        "en": "Orange Walk",
+        "slug": "orange-walk-bz04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.419",
+    "lon": "-89.121"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BZ02L115",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Rock Dondo",
+    "en": "Rock Dondo",
+    "slug": "rock-dondo-bz02l115"
+  },
+  "code": {
+    "id": "BZ02L115",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ02",
+    "level": 1,
+    "name": {
+      "local": "Cayo",
+      "en": "Cayo",
+      "slug": "cayo-bz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ02",
+      "level": 1,
+      "name": {
+        "local": "Cayo",
+        "en": "Cayo",
+        "slug": "cayo-bz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.35",
+    "lon": "-88.733"
+  },
+  "metadata": {},
+  "source": {}
+}

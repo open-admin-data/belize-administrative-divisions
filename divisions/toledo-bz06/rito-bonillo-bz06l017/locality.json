@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L017",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Rito Bonillo",
+    "en": "Rito Bonillo",
+    "slug": "rito-bonillo-bz06l017"
+  },
+  "code": {
+    "id": "BZ06L017",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.428",
+    "lon": "-89.114"
+  },
+  "metadata": {},
+  "source": {}
+}

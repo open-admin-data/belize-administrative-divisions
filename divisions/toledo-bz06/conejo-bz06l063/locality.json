@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L063",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Conejo",
+    "en": "Conejo",
+    "slug": "conejo-bz06l063"
+  },
+  "code": {
+    "id": "BZ06L063",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.041",
+    "lon": "-89.002"
+  },
+  "metadata": {},
+  "source": {}
+}

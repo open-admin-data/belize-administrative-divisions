@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L048",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Cabro",
+    "en": "Cabro",
+    "slug": "cabro-bz06l048"
+  },
+  "code": {
+    "id": "BZ06L048",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.401",
+    "lon": "-89.067"
+  },
+  "metadata": {},
+  "source": {}
+}

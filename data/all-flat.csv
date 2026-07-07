@@ -1,0 +1,8 @@
+# Data from Open Admin Data (https://openadmindata.org/bz/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/belize-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.district,children_count.locality,zip_codes,geo.lat,geo.lon,source_url
+BZ01,1,District,District,Belize,Belize,belize-bz01,BZ01,,,,,,54,,17.553,-88.447,https://openadmindata.org/bz/districts/belize-bz01/
+BZ02,1,District,District,Cayo,Cayo,cayo-bz02,BZ02,,,,,,120,,16.963,-88.887,https://openadmindata.org/bz/districts/cayo-bz02/
+BZ03,1,District,District,Corozal,Corozal,corozal-bz03,BZ03,,,,,,67,,18.238,-88.321,https://openadmindata.org/bz/districts/corozal-bz03/
+BZ04,1,District,District,Orange Walk,Orange Walk,orange-walk-bz04,BZ04,,,,,,83,,17.767,-88.854,https://openadmindata.org/bz/districts/orange-walk-bz04/
+BZ05,1,District,District,Stann Creek,Stann Creek,stann-creek-bz05,BZ05,,,,,,50,,16.824,-88.48,https://openadmindata.org/bz/districts/stann-creek-bz05/
+BZ06,1,District,District,Toledo,Toledo,toledo-bz06,BZ06,,,,,,88,,16.297,-88.87,https://openadmindata.org/bz/districts/toledo-bz06/

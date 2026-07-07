@@ -1,0 +1,45 @@
+{
+  "id": "BZ04L047",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Pettville",
+    "en": "Pettville",
+    "slug": "pettville-bz04l047"
+  },
+  "code": {
+    "id": "BZ04L047",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ04",
+    "level": 1,
+    "name": {
+      "local": "Orange Walk",
+      "en": "Orange Walk",
+      "slug": "orange-walk-bz04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ04",
+      "level": 1,
+      "name": {
+        "local": "Orange Walk",
+        "en": "Orange Walk",
+        "slug": "orange-walk-bz04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.078",
+    "lon": "-88.539"
+  },
+  "metadata": {},
+  "source": {}
+}

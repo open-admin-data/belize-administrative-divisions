@@ -1,0 +1,45 @@
+{
+  "id": "BZ01L043",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Biscayne",
+    "en": "Biscayne",
+    "slug": "biscayne-bz01l043"
+  },
+  "code": {
+    "id": "BZ01L043",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ01",
+    "level": 1,
+    "name": {
+      "local": "Belize",
+      "en": "Belize",
+      "slug": "belize-bz01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.717",
+    "lon": "-88.457"
+  },
+  "metadata": {},
+  "source": {}
+}

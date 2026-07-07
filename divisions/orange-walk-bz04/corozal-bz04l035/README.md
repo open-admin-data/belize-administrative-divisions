@@ -1,0 +1,21 @@
+# Corozal
+
+[Home](../../../) &gt; [Orange Walk](../) > **Corozal**
+
+Corozal is a locality in Belize, under Orange Walk.
+
+## Overview
+
+| Item | Details |
+|------|---------|
+| Code | BZ04L035 |
+| Coordinates | 17.405, -89.081 |
+| Parent | Orange Walk |
+
+## Data Files
+
+- [locality.json](locality.json) — Locality metadata
+
+---
+
+<- Back to [Orange Walk](../)

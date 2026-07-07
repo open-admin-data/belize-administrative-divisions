@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L078",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Solomon Camp",
+    "en": "Solomon Camp",
+    "slug": "solomon-camp-bz06l078"
+  },
+  "code": {
+    "id": "BZ06L078",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.558",
+    "lon": "-88.757"
+  },
+  "metadata": {},
+  "source": {}
+}

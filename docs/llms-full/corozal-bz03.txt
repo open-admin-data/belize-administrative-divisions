@@ -1,0 +1,344 @@
+# Corozal — Belize Administrative Divisions
+
+> 67 localitys
+> Code: BZ03
+> Coordinates: 18.238, -88.321
+> Last updated: 2026-07-07. License: CC-BY-4.0.
+
+## Localitys
+
+### America
+
+Code: BZ03L038, Coordinates: 18.343, -88.442
+
+
+### Aventura
+
+Code: BZ03L007, Coordinates: 18.33, -88.449
+
+
+### Bacalar Chico
+
+Code: BZ03L011, Coordinates: 18.187, -87.86
+
+
+### Barquedier Sierra
+
+Code: BZ03L018, Coordinates: 18.177, -88.48
+
+
+### Benque Viejo
+
+Code: BZ03L008, Coordinates: 18.277, -88.456
+
+
+### Buena Vista
+
+Code: BZ03L055, Coordinates: 18.237, -88.527
+
+
+### Calcutta
+
+Code: BZ03L051, Coordinates: 18.362, -88.439
+
+
+### Caledonia
+
+Code: BZ03L056, Coordinates: 18.227, -88.477
+
+
+### Campa Pita
+
+Code: BZ03L027, Coordinates: 18.078, -88.3
+
+
+### Carolina
+
+Code: BZ03L014, Coordinates: 18.366, -88.428
+
+
+### Chacan Chac Mol
+
+Code: BZ03L065, Coordinates: 18.274, -88.257
+
+
+### Chan Bank
+
+Code: BZ03L021, Coordinates: 18.217, -88.5
+
+
+### Chan Chen
+
+Code: BZ03L034, Coordinates: 18.433, -88.417
+
+
+### Chan Sapote
+
+Code: BZ03L048, Coordinates: 18.327, -88.563
+
+
+### Chunch
+
+Code: BZ03L049, Coordinates: 18.3, -88.383
+
+
+### Chunox
+
+Code: BZ03L067, Coordinates: 18.298, -88.357
+
+
+### Cocos
+
+Code: BZ03L020, Coordinates: 18.251, -88.373
+
+
+### Concepcion
+
+Code: BZ03L042, Coordinates: 18.323, -88.474
+
+
+### Consejo
+
+Code: BZ03L015, Coordinates: 18.457, -88.301
+
+
+### Corozal
+
+Code: BZ03L001, Coordinates: 18.398, -88.394
+
+
+### Corozal District
+
+Code: BZ03L066, Coordinates: 18.25, -88.333
+
+
+### Corozalito
+
+Code: BZ03L019, Coordinates: 18.102, -88.376
+
+
+### Cowpen
+
+Code: BZ03L041, Coordinates: 18.222, -88.227
+
+
+### Cristo Rey
+
+Code: BZ03L025, Coordinates: 18.349, -88.495
+
+
+### El Remate
+
+Code: BZ03L010, Coordinates: 18.2, -88.433
+
+
+### Estero
+
+Code: BZ03L064, Coordinates: 18.413, -88.502
+
+
+### Estrella
+
+Code: BZ03L002, Coordinates: 18.291, -88.452
+
+
+### Hill Bank
+
+Code: BZ03L061, Coordinates: 18.246, -88.394
+
+
+### Laguna
+
+Code: BZ03L063, Coordinates: 18.382, -88.518
+
+
+### Libertad
+
+Code: BZ03L053, Coordinates: 18.308, -88.454
+
+
+### Little Belize
+
+Code: BZ03L016, Coordinates: 18.198, -88.408
+
+
+### Louisville
+
+Code: BZ03L047, Coordinates: 18.319, -88.51
+
+
+### New Home
+
+Code: BZ03L006, Coordinates: 18.115, -88.444
+
+
+### Paraiso
+
+Code: BZ03L003, Coordinates: 18.408, -88.394
+
+
+### Patchchacan
+
+Code: BZ03L030, Coordinates: 18.401, -88.471
+
+
+### Progresso
+
+Code: BZ03L031, Coordinates: 18.231, -88.411
+
+
+### Pucte
+
+Code: BZ03L045, Coordinates: 18.136, -88.438
+
+
+### Puebla Nueva
+
+Code: BZ03L033, Coordinates: 18.311, -88.412
+
+
+### Pueblo Nuevo
+
+Code: BZ03L013, Coordinates: 18.31, -88.413
+
+
+### Ranchito
+
+Code: BZ03L022, Coordinates: 18.378, -88.41
+
+
+### Rancho Corozal
+
+Code: BZ03L054, Coordinates: 18.256, -88.407
+
+
+### Remate
+
+Code: BZ03L026, Coordinates: 18.453, -88.413
+
+
+### Saltillo
+
+Code: BZ03L040, Coordinates: 18.315, -88.393
+
+
+### San Andres
+
+Code: BZ03L046, Coordinates: 18.389, -88.409
+
+
+### San Antonio
+
+Code: BZ03L059, Coordinates: 18.402, -88.4
+
+
+### San Fernando
+
+Code: BZ03L029, Coordinates: 18.321, -88.354
+
+
+### San Francisco
+
+Code: BZ03L032, Coordinates: 18.324, -88.458
+
+
+### San Joaquin
+
+Code: BZ03L028, Coordinates: 18.353, -88.442
+
+
+### San Juan
+
+Code: BZ03L005, Coordinates: 18.183, -88.617
+
+
+### San Narciso
+
+Code: BZ03L050, Coordinates: 18.304, -88.521
+
+
+### San Pedro
+
+Code: BZ03L060, Coordinates: 18.338, -88.495
+
+
+### San Roman
+
+Code: BZ03L004, Coordinates: 18.297, -88.508
+
+
+### San Victor
+
+Code: BZ03L023, Coordinates: 18.259, -88.576
+
+
+### Santa Clara
+
+Code: BZ03L057, Coordinates: 18.294, -88.512
+
+
+### Santa Elena
+
+Code: BZ03L062, Coordinates: 18.485, -88.394
+
+
+### Santa Rita
+
+Code: BZ03L052, Coordinates: 18.39, -88.389
+
+
+### Santa Rosa
+
+Code: BZ03L044, Coordinates: 18.484, -88.459
+
+
+### Sarteneja
+
+Code: BZ03L012, Coordinates: 18.353, -88.145
+
+
+### Shipstern
+
+Code: BZ03L039, Coordinates: 18.186, -88.168
+
+
+### Shipstern Landing
+
+Code: BZ03L017, Coordinates: 18.233, -88.184
+
+
+### Swasey Branch Barquedier
+
+Code: BZ03L035, Coordinates: 18.188, -88.472
+
+
+### Tacistal
+
+Code: BZ03L043, Coordinates: 18.384, -88.443
+
+
+### Villa Alfonso
+
+Code: BZ03L036, Coordinates: 18.283, -88.45
+
+
+### Xaibe
+
+Code: BZ03L058, Coordinates: 18.387, -88.434
+
+
+### Xcanluum
+
+Code: BZ03L037, Coordinates: 18.398, -88.46
+
+
+### Yo Chen
+
+Code: BZ03L024, Coordinates: 18.355, -88.498
+
+
+### Yo Creek
+
+Code: BZ03L009, Coordinates: 18.091, -88.646
+
+

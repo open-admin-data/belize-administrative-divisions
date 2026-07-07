@@ -1,0 +1,45 @@
+{
+  "id": "BZ02L053",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Esperanza",
+    "en": "Esperanza",
+    "slug": "esperanza-bz02l053"
+  },
+  "code": {
+    "id": "BZ02L053",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ02",
+    "level": 1,
+    "name": {
+      "local": "Cayo",
+      "en": "Cayo",
+      "slug": "cayo-bz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ02",
+      "level": 1,
+      "name": {
+        "local": "Cayo",
+        "en": "Cayo",
+        "slug": "cayo-bz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.175",
+    "lon": "-89.044"
+  },
+  "metadata": {},
+  "source": {}
+}

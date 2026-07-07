@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L031",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Rice Station",
+    "en": "Rice Station",
+    "slug": "rice-station-bz06l031"
+  },
+  "code": {
+    "id": "BZ06L031",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.136",
+    "lon": "-88.844"
+  },
+  "metadata": {},
+  "source": {}
+}

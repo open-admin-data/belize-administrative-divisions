@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L041",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Trio Camp",
+    "en": "Trio Camp",
+    "slug": "trio-camp-bz06l041"
+  },
+  "code": {
+    "id": "BZ06L041",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.585",
+    "lon": "-88.67"
+  },
+  "metadata": {},
+  "source": {}
+}

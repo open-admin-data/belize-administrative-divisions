@@ -1,0 +1,21 @@
+# Chan Limon
+
+[Home](../../../) &gt; [Orange Walk](../) > **Chan Limon**
+
+Chan Limon is a locality in Belize, under Orange Walk.
+
+## Overview
+
+| Item | Details |
+|------|---------|
+| Code | BZ04L078 |
+| Coordinates | 17.362, -89.138 |
+| Parent | Orange Walk |
+
+## Data Files
+
+- [locality.json](locality.json) — Locality metadata
+
+---
+
+<- Back to [Orange Walk](../)

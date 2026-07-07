@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L067",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Jimmy Cut",
+    "en": "Jimmy Cut",
+    "slug": "jimmy-cut-bz06l067"
+  },
+  "code": {
+    "id": "BZ06L067",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.294",
+    "lon": "-89.041"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BZ03L003",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Paraiso",
+    "en": "Paraiso",
+    "slug": "paraiso-bz03l003"
+  },
+  "code": {
+    "id": "BZ03L003",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ03",
+    "level": 1,
+    "name": {
+      "local": "Corozal",
+      "en": "Corozal",
+      "slug": "corozal-bz03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ03",
+      "level": 1,
+      "name": {
+        "local": "Corozal",
+        "en": "Corozal",
+        "slug": "corozal-bz03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.408",
+    "lon": "-88.394"
+  },
+  "metadata": {},
+  "source": {}
+}

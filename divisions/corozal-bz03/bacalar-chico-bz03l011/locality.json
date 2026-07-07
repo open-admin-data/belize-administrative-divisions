@@ -1,0 +1,45 @@
+{
+  "id": "BZ03L011",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Bacalar Chico",
+    "en": "Bacalar Chico",
+    "slug": "bacalar-chico-bz03l011"
+  },
+  "code": {
+    "id": "BZ03L011",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ03",
+    "level": 1,
+    "name": {
+      "local": "Corozal",
+      "en": "Corozal",
+      "slug": "corozal-bz03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ03",
+      "level": 1,
+      "name": {
+        "local": "Corozal",
+        "en": "Corozal",
+        "slug": "corozal-bz03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.187",
+    "lon": "-87.86"
+  },
+  "metadata": {},
+  "source": {}
+}

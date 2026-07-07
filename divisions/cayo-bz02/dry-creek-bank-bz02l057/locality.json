@@ -1,0 +1,45 @@
+{
+  "id": "BZ02L057",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Dry Creek Bank",
+    "en": "Dry Creek Bank",
+    "slug": "dry-creek-bank-bz02l057"
+  },
+  "code": {
+    "id": "BZ02L057",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ02",
+    "level": 1,
+    "name": {
+      "local": "Cayo",
+      "en": "Cayo",
+      "slug": "cayo-bz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ02",
+      "level": 1,
+      "name": {
+        "local": "Cayo",
+        "en": "Cayo",
+        "slug": "cayo-bz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.171",
+    "lon": "-88.596"
+  },
+  "metadata": {},
+  "source": {}
+}

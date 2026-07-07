@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L051",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Melvin's Bank",
+    "en": "Melvin's Bank",
+    "slug": "melvin-s-bank-bz06l051"
+  },
+  "code": {
+    "id": "BZ06L051",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.443",
+    "lon": "-88.637"
+  },
+  "metadata": {},
+  "source": {}
+}

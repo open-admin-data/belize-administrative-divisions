@@ -1,0 +1,62 @@
+# Belize Administrative Divisions
+
+> Open dataset of Belize's administrative hierarchy:
+> 6 districts, 462 localitys.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total districts: 6
+- Total localitys: 462
+- Coordinates: included (all levels)
+- Last updated: 2026-07-07
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/belize-administrative-divisions/main/data/all-district.json)
+- [All localitys (JSON)](https://raw.githubusercontent.com/open-admin-data/belize-administrative-divisions/main/data/all-locality.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/belize-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/belize-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/belize-administrative-divisions/main/data/schema.json)
+
+## Browse by District
+
+- [Belize](https://github.com/open-admin-data/belize-administrative-divisions/tree/main/divisions/belize-bz01/) — 54 localitys
+- [Cayo](https://github.com/open-admin-data/belize-administrative-divisions/tree/main/divisions/cayo-bz02/) — 120 localitys
+- [Corozal](https://github.com/open-admin-data/belize-administrative-divisions/tree/main/divisions/corozal-bz03/) — 67 localitys
+- [Orange Walk](https://github.com/open-admin-data/belize-administrative-divisions/tree/main/divisions/orange-walk-bz04/) — 83 localitys
+- [Stann Creek](https://github.com/open-admin-data/belize-administrative-divisions/tree/main/divisions/stann-creek-bz05/) — 50 localitys
+- [Toledo](https://github.com/open-admin-data/belize-administrative-divisions/tree/main/divisions/toledo-bz06/) — 88 localitys
+
+## Per-District Full Data
+
+- [Belize](https://raw.githubusercontent.com/open-admin-data/belize-administrative-divisions/main/docs/llms-full/belize-bz01.txt)
+- [Cayo](https://raw.githubusercontent.com/open-admin-data/belize-administrative-divisions/main/docs/llms-full/cayo-bz02.txt)
+- [Corozal](https://raw.githubusercontent.com/open-admin-data/belize-administrative-divisions/main/docs/llms-full/corozal-bz03.txt)
+- [Orange Walk](https://raw.githubusercontent.com/open-admin-data/belize-administrative-divisions/main/docs/llms-full/orange-walk-bz04.txt)
+- [Stann Creek](https://raw.githubusercontent.com/open-admin-data/belize-administrative-divisions/main/docs/llms-full/stann-creek-bz05.txt)
+- [Toledo](https://raw.githubusercontent.com/open-admin-data/belize-administrative-divisions/main/docs/llms-full/toledo-bz06.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (district), 2 (locality)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Belize Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/belize-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

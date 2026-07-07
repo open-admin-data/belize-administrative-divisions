@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L022",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Indian Creek Village",
+    "en": "Indian Creek Village",
+    "slug": "indian-creek-village-bz06l022"
+  },
+  "code": {
+    "id": "BZ06L022",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.315",
+    "lon": "-88.832"
+  },
+  "metadata": {},
+  "source": {}
+}

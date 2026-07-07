@@ -1,0 +1,45 @@
+{
+  "id": "BZ01L022",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Sand Hill",
+    "en": "Sand Hill",
+    "slug": "sand-hill-bz01l022"
+  },
+  "code": {
+    "id": "BZ01L022",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ01",
+    "level": 1,
+    "name": {
+      "local": "Belize",
+      "en": "Belize",
+      "slug": "belize-bz01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.64",
+    "lon": "-88.368"
+  },
+  "metadata": {},
+  "source": {}
+}

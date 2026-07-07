@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L070",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Jacinto Landing",
+    "en": "Jacinto Landing",
+    "slug": "jacinto-landing-bz06l070"
+  },
+  "code": {
+    "id": "BZ06L070",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.167",
+    "lon": "-88.85"
+  },
+  "metadata": {},
+  "source": {}
+}

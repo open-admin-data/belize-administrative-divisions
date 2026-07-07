@@ -1,0 +1,45 @@
+{
+  "id": "BZ02L096",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Cebada Camp",
+    "en": "Cebada Camp",
+    "slug": "cebada-camp-bz02l096"
+  },
+  "code": {
+    "id": "BZ02L096",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ02",
+    "level": 1,
+    "name": {
+      "local": "Cayo",
+      "en": "Cayo",
+      "slug": "cayo-bz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ02",
+      "level": 1,
+      "name": {
+        "local": "Cayo",
+        "en": "Cayo",
+        "slug": "cayo-bz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.657",
+    "lon": "-89.164"
+  },
+  "metadata": {},
+  "source": {}
+}

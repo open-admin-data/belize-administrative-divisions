@@ -1,0 +1,45 @@
+{
+  "id": "BZ02L003",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Valley of Peace",
+    "en": "Valley of Peace",
+    "slug": "valley-of-peace-bz02l003"
+  },
+  "code": {
+    "id": "BZ02L003",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ02",
+    "level": 1,
+    "name": {
+      "local": "Cayo",
+      "en": "Cayo",
+      "slug": "cayo-bz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ02",
+      "level": 1,
+      "name": {
+        "local": "Cayo",
+        "en": "Cayo",
+        "slug": "cayo-bz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.335",
+    "lon": "-88.835"
+  },
+  "metadata": {},
+  "source": {}
+}

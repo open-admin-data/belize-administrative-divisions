@@ -1,0 +1,45 @@
+{
+  "id": "BZ02L050",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Unitedville",
+    "en": "Unitedville",
+    "slug": "unitedville-bz02l050"
+  },
+  "code": {
+    "id": "BZ02L050",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ02",
+    "level": 1,
+    "name": {
+      "local": "Cayo",
+      "en": "Cayo",
+      "slug": "cayo-bz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ02",
+      "level": 1,
+      "name": {
+        "local": "Cayo",
+        "en": "Cayo",
+        "slug": "cayo-bz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.21",
+    "lon": "-88.934"
+  },
+  "metadata": {},
+  "source": {}
+}

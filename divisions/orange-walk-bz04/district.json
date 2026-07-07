@@ -1,0 +1,33 @@
+{
+  "id": "BZ04",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Orange Walk",
+    "en": "Orange Walk",
+    "slug": "orange-walk-bz04"
+  },
+  "code": {
+    "id": "BZ04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 83
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.767",
+    "lon": "-88.854"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bz/districts/orange-walk-bz04/",
+    "api": "https://openadmindata.org/api/bz/"
+  }
+}

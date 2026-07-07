@@ -1,0 +1,45 @@
+{
+  "id": "BZ02L006",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Guacamallo",
+    "en": "Guacamallo",
+    "slug": "guacamallo-bz02l006"
+  },
+  "code": {
+    "id": "BZ02L006",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ02",
+    "level": 1,
+    "name": {
+      "local": "Cayo",
+      "en": "Cayo",
+      "slug": "cayo-bz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ02",
+      "level": 1,
+      "name": {
+        "local": "Cayo",
+        "en": "Cayo",
+        "slug": "cayo-bz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.868",
+    "lon": "-89.032"
+  },
+  "metadata": {},
+  "source": {}
+}

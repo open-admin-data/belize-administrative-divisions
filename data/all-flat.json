@@ -1,0 +1,203 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/bz/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/belize-administrative-divisions",
+  "data": [
+    {
+      "id": "BZ01",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      },
+      "code": {
+        "id": "BZ01",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 54
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "17.553",
+        "lon": "-88.447"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bz/districts/belize-bz01/",
+        "api": "https://openadmindata.org/api/bz/"
+      }
+    },
+    {
+      "id": "BZ02",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "Cayo",
+        "en": "Cayo",
+        "slug": "cayo-bz02"
+      },
+      "code": {
+        "id": "BZ02",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 120
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "16.963",
+        "lon": "-88.887"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bz/districts/cayo-bz02/",
+        "api": "https://openadmindata.org/api/bz/"
+      }
+    },
+    {
+      "id": "BZ03",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "Corozal",
+        "en": "Corozal",
+        "slug": "corozal-bz03"
+      },
+      "code": {
+        "id": "BZ03",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 67
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "18.238",
+        "lon": "-88.321"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bz/districts/corozal-bz03/",
+        "api": "https://openadmindata.org/api/bz/"
+      }
+    },
+    {
+      "id": "BZ04",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "Orange Walk",
+        "en": "Orange Walk",
+        "slug": "orange-walk-bz04"
+      },
+      "code": {
+        "id": "BZ04",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 83
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "17.767",
+        "lon": "-88.854"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bz/districts/orange-walk-bz04/",
+        "api": "https://openadmindata.org/api/bz/"
+      }
+    },
+    {
+      "id": "BZ05",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      },
+      "code": {
+        "id": "BZ05",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 50
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "16.824",
+        "lon": "-88.48"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bz/districts/stann-creek-bz05/",
+        "api": "https://openadmindata.org/api/bz/"
+      }
+    },
+    {
+      "id": "BZ06",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      },
+      "code": {
+        "id": "BZ06",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 88
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "16.297",
+        "lon": "-88.87"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bz/districts/toledo-bz06/",
+        "api": "https://openadmindata.org/api/bz/"
+      }
+    }
+  ]
+}

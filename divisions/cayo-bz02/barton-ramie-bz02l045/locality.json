@@ -1,0 +1,45 @@
+{
+  "id": "BZ02L045",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Barton Ramie",
+    "en": "Barton Ramie",
+    "slug": "barton-ramie-bz02l045"
+  },
+  "code": {
+    "id": "BZ02L045",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ02",
+    "level": 1,
+    "name": {
+      "local": "Cayo",
+      "en": "Cayo",
+      "slug": "cayo-bz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ02",
+      "level": 1,
+      "name": {
+        "local": "Cayo",
+        "en": "Cayo",
+        "slug": "cayo-bz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.21",
+    "lon": "-88.974"
+  },
+  "metadata": {},
+  "source": {}
+}

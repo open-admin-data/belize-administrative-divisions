@@ -1,0 +1,45 @@
+{
+  "id": "BZ05L016",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Sale si Puede",
+    "en": "Sale si Puede",
+    "slug": "sale-si-puede-bz05l016"
+  },
+  "code": {
+    "id": "BZ05L016",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ05",
+    "level": 1,
+    "name": {
+      "local": "Stann Creek",
+      "en": "Stann Creek",
+      "slug": "stann-creek-bz05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.713",
+    "lon": "-88.636"
+  },
+  "metadata": {},
+  "source": {}
+}

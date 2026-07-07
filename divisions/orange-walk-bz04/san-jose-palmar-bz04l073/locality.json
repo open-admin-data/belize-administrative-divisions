@@ -1,0 +1,45 @@
+{
+  "id": "BZ04L073",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "San Jose Palmar",
+    "en": "San Jose Palmar",
+    "slug": "san-jose-palmar-bz04l073"
+  },
+  "code": {
+    "id": "BZ04L073",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ04",
+    "level": 1,
+    "name": {
+      "local": "Orange Walk",
+      "en": "Orange Walk",
+      "slug": "orange-walk-bz04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ04",
+      "level": 1,
+      "name": {
+        "local": "Orange Walk",
+        "en": "Orange Walk",
+        "slug": "orange-walk-bz04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.062",
+    "lon": "-88.563"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BZ05L031",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Alta Vista",
+    "en": "Alta Vista",
+    "slug": "alta-vista-bz05l031"
+  },
+  "code": {
+    "id": "BZ05L031",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ05",
+    "level": 1,
+    "name": {
+      "local": "Stann Creek",
+      "en": "Stann Creek",
+      "slug": "stann-creek-bz05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.994",
+    "lon": "-88.405"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BZ03L024",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Yo Chen",
+    "en": "Yo Chen",
+    "slug": "yo-chen-bz03l024"
+  },
+  "code": {
+    "id": "BZ03L024",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ03",
+    "level": 1,
+    "name": {
+      "local": "Corozal",
+      "en": "Corozal",
+      "slug": "corozal-bz03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ03",
+      "level": 1,
+      "name": {
+        "local": "Corozal",
+        "en": "Corozal",
+        "slug": "corozal-bz03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.355",
+    "lon": "-88.498"
+  },
+  "metadata": {},
+  "source": {}
+}

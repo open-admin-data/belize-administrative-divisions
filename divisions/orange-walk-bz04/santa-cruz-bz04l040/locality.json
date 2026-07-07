@@ -1,0 +1,45 @@
+{
+  "id": "BZ04L040",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Santa Cruz",
+    "en": "Santa Cruz",
+    "slug": "santa-cruz-bz04l040"
+  },
+  "code": {
+    "id": "BZ04L040",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ04",
+    "level": 1,
+    "name": {
+      "local": "Orange Walk",
+      "en": "Orange Walk",
+      "slug": "orange-walk-bz04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ04",
+      "level": 1,
+      "name": {
+        "local": "Orange Walk",
+        "en": "Orange Walk",
+        "slug": "orange-walk-bz04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.115",
+    "lon": "-88.706"
+  },
+  "metadata": {},
+  "source": {}
+}

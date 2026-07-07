@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L028",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Happy Farms Village",
+    "en": "Happy Farms Village",
+    "slug": "happy-farms-village-bz06l028"
+  },
+  "code": {
+    "id": "BZ06L028",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.91",
+    "lon": "-89.189"
+  },
+  "metadata": {},
+  "source": {}
+}

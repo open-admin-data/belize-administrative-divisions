@@ -1,0 +1,33 @@
+{
+  "id": "BZ05",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Stann Creek",
+    "en": "Stann Creek",
+    "slug": "stann-creek-bz05"
+  },
+  "code": {
+    "id": "BZ05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 50
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.824",
+    "lon": "-88.48"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bz/districts/stann-creek-bz05/",
+    "api": "https://openadmindata.org/api/bz/"
+  }
+}

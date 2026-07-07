@@ -1,0 +1,45 @@
+{
+  "id": "BZ05L039",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "New Town",
+    "en": "New Town",
+    "slug": "new-town-bz05l039"
+  },
+  "code": {
+    "id": "BZ05L039",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ05",
+    "level": 1,
+    "name": {
+      "local": "Stann Creek",
+      "en": "Stann Creek",
+      "slug": "stann-creek-bz05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.9",
+    "lon": "-88.267"
+  },
+  "metadata": {},
+  "source": {}
+}

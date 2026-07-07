@@ -1,0 +1,45 @@
+{
+  "id": "BZ03L045",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Pucte",
+    "en": "Pucte",
+    "slug": "pucte-bz03l045"
+  },
+  "code": {
+    "id": "BZ03L045",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ03",
+    "level": 1,
+    "name": {
+      "local": "Corozal",
+      "en": "Corozal",
+      "slug": "corozal-bz03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ03",
+      "level": 1,
+      "name": {
+        "local": "Corozal",
+        "en": "Corozal",
+        "slug": "corozal-bz03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.136",
+    "lon": "-88.438"
+  },
+  "metadata": {},
+  "source": {}
+}

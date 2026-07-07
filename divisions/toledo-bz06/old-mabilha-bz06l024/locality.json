@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L024",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Old Mabilha",
+    "en": "Old Mabilha",
+    "slug": "old-mabilha-bz06l024"
+  },
+  "code": {
+    "id": "BZ06L024",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.107",
+    "lon": "-89.096"
+  },
+  "metadata": {},
+  "source": {}
+}

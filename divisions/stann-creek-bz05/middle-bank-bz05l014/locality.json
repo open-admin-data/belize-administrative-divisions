@@ -1,0 +1,45 @@
+{
+  "id": "BZ05L014",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Middle Bank",
+    "en": "Middle Bank",
+    "slug": "middle-bank-bz05l014"
+  },
+  "code": {
+    "id": "BZ05L014",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ05",
+    "level": 1,
+    "name": {
+      "local": "Stann Creek",
+      "en": "Stann Creek",
+      "slug": "stann-creek-bz05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ05",
+      "level": 1,
+      "name": {
+        "local": "Stann Creek",
+        "en": "Stann Creek",
+        "slug": "stann-creek-bz05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.828",
+    "lon": "-88.309"
+  },
+  "metadata": {},
+  "source": {}
+}

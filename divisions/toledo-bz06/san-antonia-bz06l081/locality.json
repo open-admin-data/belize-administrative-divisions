@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L081",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "San Antonia",
+    "en": "San Antonia",
+    "slug": "san-antonia-bz06l081"
+  },
+  "code": {
+    "id": "BZ06L081",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.1",
+    "lon": "-88.933"
+  },
+  "metadata": {},
+  "source": {}
+}

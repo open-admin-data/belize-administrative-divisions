@@ -1,0 +1,45 @@
+{
+  "id": "BZ01L003",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Rockstone Pond",
+    "en": "Rockstone Pond",
+    "slug": "rockstone-pond-bz01l003"
+  },
+  "code": {
+    "id": "BZ01L003",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ01",
+    "level": 1,
+    "name": {
+      "local": "Belize",
+      "en": "Belize",
+      "slug": "belize-bz01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.75",
+    "lon": "-88.333"
+  },
+  "metadata": {},
+  "source": {}
+}

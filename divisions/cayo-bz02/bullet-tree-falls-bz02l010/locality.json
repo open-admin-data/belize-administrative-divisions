@@ -1,0 +1,45 @@
+{
+  "id": "BZ02L010",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Bullet Tree Falls",
+    "en": "Bullet Tree Falls",
+    "slug": "bullet-tree-falls-bz02l010"
+  },
+  "code": {
+    "id": "BZ02L010",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ02",
+    "level": 1,
+    "name": {
+      "local": "Cayo",
+      "en": "Cayo",
+      "slug": "cayo-bz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ02",
+      "level": 1,
+      "name": {
+        "local": "Cayo",
+        "en": "Cayo",
+        "slug": "cayo-bz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.168",
+    "lon": "-89.111"
+  },
+  "metadata": {},
+  "source": {}
+}

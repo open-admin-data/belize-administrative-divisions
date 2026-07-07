@@ -1,0 +1,45 @@
+{
+  "id": "BZ03L030",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Patchchacan",
+    "en": "Patchchacan",
+    "slug": "patchchacan-bz03l030"
+  },
+  "code": {
+    "id": "BZ03L030",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ03",
+    "level": 1,
+    "name": {
+      "local": "Corozal",
+      "en": "Corozal",
+      "slug": "corozal-bz03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ03",
+      "level": 1,
+      "name": {
+        "local": "Corozal",
+        "en": "Corozal",
+        "slug": "corozal-bz03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.401",
+    "lon": "-88.471"
+  },
+  "metadata": {},
+  "source": {}
+}

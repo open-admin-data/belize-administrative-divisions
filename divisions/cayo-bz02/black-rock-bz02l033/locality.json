@@ -1,0 +1,45 @@
+{
+  "id": "BZ02L033",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Black Rock",
+    "en": "Black Rock",
+    "slug": "black-rock-bz02l033"
+  },
+  "code": {
+    "id": "BZ02L033",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ02",
+    "level": 1,
+    "name": {
+      "local": "Cayo",
+      "en": "Cayo",
+      "slug": "cayo-bz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ02",
+      "level": 1,
+      "name": {
+        "local": "Cayo",
+        "en": "Cayo",
+        "slug": "cayo-bz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.049",
+    "lon": "-89.059"
+  },
+  "metadata": {},
+  "source": {}
+}

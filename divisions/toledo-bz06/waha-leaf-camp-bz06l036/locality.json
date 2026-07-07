@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L036",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Waha Leaf Camp",
+    "en": "Waha Leaf Camp",
+    "slug": "waha-leaf-camp-bz06l036"
+  },
+  "code": {
+    "id": "BZ06L036",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.594",
+    "lon": "-88.647"
+  },
+  "metadata": {},
+  "source": {}
+}

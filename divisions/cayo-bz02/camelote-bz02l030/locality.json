@@ -1,0 +1,45 @@
+{
+  "id": "BZ02L030",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Camelote",
+    "en": "Camelote",
+    "slug": "camelote-bz02l030"
+  },
+  "code": {
+    "id": "BZ02L030",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ02",
+    "level": 1,
+    "name": {
+      "local": "Cayo",
+      "en": "Cayo",
+      "slug": "cayo-bz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ02",
+      "level": 1,
+      "name": {
+        "local": "Cayo",
+        "en": "Cayo",
+        "slug": "cayo-bz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.239",
+    "lon": "-88.827"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BZ02L083",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Norland",
+    "en": "Norland",
+    "slug": "norland-bz02l083"
+  },
+  "code": {
+    "id": "BZ02L083",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ02",
+    "level": 1,
+    "name": {
+      "local": "Cayo",
+      "en": "Cayo",
+      "slug": "cayo-bz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ02",
+      "level": 1,
+      "name": {
+        "local": "Cayo",
+        "en": "Cayo",
+        "slug": "cayo-bz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.182",
+    "lon": "-89.009"
+  },
+  "metadata": {},
+  "source": {}
+}

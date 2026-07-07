@@ -1,0 +1,45 @@
+{
+  "id": "BZ01L026",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Big Falls",
+    "en": "Big Falls",
+    "slug": "big-falls-bz01l026"
+  },
+  "code": {
+    "id": "BZ01L026",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ01",
+    "level": 1,
+    "name": {
+      "local": "Belize",
+      "en": "Belize",
+      "slug": "belize-bz01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.495",
+    "lon": "-88.585"
+  },
+  "metadata": {},
+  "source": {}
+}

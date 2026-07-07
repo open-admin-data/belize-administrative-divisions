@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L065",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Forest Home",
+    "en": "Forest Home",
+    "slug": "forest-home-bz06l065"
+  },
+  "code": {
+    "id": "BZ06L065",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.139",
+    "lon": "-88.833"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BZ06L075",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "San Vincente",
+    "en": "San Vincente",
+    "slug": "san-vincente-bz06l075"
+  },
+  "code": {
+    "id": "BZ06L075",
+    "iso": null
+  },
+  "parent": {
+    "id": "BZ06",
+    "level": 1,
+    "name": {
+      "local": "Toledo",
+      "en": "Toledo",
+      "slug": "toledo-bz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BZ06",
+      "level": 1,
+      "name": {
+        "local": "Toledo",
+        "en": "Toledo",
+        "slug": "toledo-bz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.239",
+    "lon": "-89.2"
+  },
+  "metadata": {},
+  "source": {}
+}

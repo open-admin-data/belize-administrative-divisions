@@ -1,0 +1,2432 @@
+[
+  {
+    "id": "BZ01L052",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ambergris Caye",
+      "en": "Ambergris Caye",
+      "slug": "ambergris-caye-bz01l052"
+    },
+    "code": {
+      "id": "BZ01L052",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.94",
+      "lon": "-87.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bakers",
+      "en": "Bakers",
+      "slug": "bakers-bz01l012"
+    },
+    "code": {
+      "id": "BZ01L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.55",
+      "lon": "-88.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Belize City",
+      "en": "Belize City",
+      "slug": "belize-city-bz01l008"
+    },
+    "code": {
+      "id": "BZ01L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.499",
+      "lon": "-88.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bermudian Landing",
+      "en": "Bermudian Landing",
+      "slug": "bermudian-landing-bz01l001"
+    },
+    "code": {
+      "id": "BZ01L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.557",
+      "lon": "-88.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L026",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Big Falls",
+      "en": "Big Falls",
+      "slug": "big-falls-bz01l026"
+    },
+    "code": {
+      "id": "BZ01L026",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.495",
+      "lon": "-88.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L043",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Biscayne",
+      "en": "Biscayne",
+      "slug": "biscayne-bz01l043"
+    },
+    "code": {
+      "id": "BZ01L043",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.717",
+      "lon": "-88.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L048",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bob Eiley",
+      "en": "Bob Eiley",
+      "slug": "bob-eiley-bz01l048"
+    },
+    "code": {
+      "id": "BZ01L048",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.704",
+      "lon": "-88.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bocotora",
+      "en": "Bocotora",
+      "slug": "bocotora-bz01l009"
+    },
+    "code": {
+      "id": "BZ01L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.258",
+      "lon": "-88.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L054",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bomba",
+      "en": "Bomba",
+      "slug": "bomba-bz01l054"
+    },
+    "code": {
+      "id": "BZ01L054",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.892",
+      "lon": "-88.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L021",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Burrell Boom",
+      "en": "Burrell Boom",
+      "slug": "burrell-boom-bz01l021"
+    },
+    "code": {
+      "id": "BZ01L021",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.569",
+      "lon": "-88.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L047",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Butcher Burns",
+      "en": "Butcher Burns",
+      "slug": "butcher-burns-bz01l047"
+    },
+    "code": {
+      "id": "BZ01L047",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.411",
+      "lon": "-88.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L044",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Caye Caulker",
+      "en": "Caye Caulker",
+      "slug": "caye-caulker-bz01l044"
+    },
+    "code": {
+      "id": "BZ01L044",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.737",
+      "lon": "-88.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L040",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cedar Bank",
+      "en": "Cedar Bank",
+      "slug": "cedar-bank-bz01l040"
+    },
+    "code": {
+      "id": "BZ01L040",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.386",
+      "lon": "-88.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L034",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Chicago",
+      "en": "Chicago",
+      "slug": "chicago-bz01l034"
+    },
+    "code": {
+      "id": "BZ01L034",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.815",
+      "lon": "-88.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Churchyard",
+      "en": "Churchyard",
+      "slug": "churchyard-bz01l004"
+    },
+    "code": {
+      "id": "BZ01L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.3",
+      "lon": "-88.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L019",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Corozalito",
+      "en": "Corozalito",
+      "slug": "corozalito-bz01l019"
+    },
+    "code": {
+      "id": "BZ01L019",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.839",
+      "lon": "-88.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L035",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cowhead Creek",
+      "en": "Cowhead Creek",
+      "slug": "cowhead-creek-bz01l035"
+    },
+    "code": {
+      "id": "BZ01L035",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.762",
+      "lon": "-88.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L038",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Crooked Tree",
+      "en": "Crooked Tree",
+      "slug": "crooked-tree-bz01l038"
+    },
+    "code": {
+      "id": "BZ01L038",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.776",
+      "lon": "-88.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L033",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Davis Bank",
+      "en": "Davis Bank",
+      "slug": "davis-bank-bz01l033"
+    },
+    "code": {
+      "id": "BZ01L033",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.645",
+      "lon": "-88.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L036",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Double Head Cabbage",
+      "en": "Double Head Cabbage",
+      "slug": "double-head-cabbage-bz01l036"
+    },
+    "code": {
+      "id": "BZ01L036",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.544",
+      "lon": "-88.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L025",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Egypt",
+      "en": "Egypt",
+      "slug": "egypt-bz01l025"
+    },
+    "code": {
+      "id": "BZ01L025",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.425",
+      "lon": "-88.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L050",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ferguson Bank",
+      "en": "Ferguson Bank",
+      "slug": "ferguson-bank-bz01l050"
+    },
+    "code": {
+      "id": "BZ01L050",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.442",
+      "lon": "-88.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L053",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Flowers Bank",
+      "en": "Flowers Bank",
+      "slug": "flowers-bank-bz01l053"
+    },
+    "code": {
+      "id": "BZ01L053",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.614",
+      "lon": "-88.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L042",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Freetown Sibun",
+      "en": "Freetown Sibun",
+      "slug": "freetown-sibun-bz01l042"
+    },
+    "code": {
+      "id": "BZ01L042",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.425",
+      "lon": "-88.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L037",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Grace Bank",
+      "en": "Grace Bank",
+      "slug": "grace-bank-bz01l037"
+    },
+    "code": {
+      "id": "BZ01L037",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.65",
+      "lon": "-88.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L013",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Gracy Rock Bank",
+      "en": "Gracy Rock Bank",
+      "slug": "gracy-rock-bank-bz01l013"
+    },
+    "code": {
+      "id": "BZ01L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.366",
+      "lon": "-88.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hattieville",
+      "en": "Hattieville",
+      "slug": "hattieville-bz01l007"
+    },
+    "code": {
+      "id": "BZ01L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.45",
+      "lon": "-88.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Isabella",
+      "en": "Isabella",
+      "slug": "isabella-bz01l011"
+    },
+    "code": {
+      "id": "BZ01L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.583",
+      "lon": "-88.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L039",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Joe Wagner Boom",
+      "en": "Joe Wagner Boom",
+      "slug": "joe-wagner-boom-bz01l039"
+    },
+    "code": {
+      "id": "BZ01L039",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.423",
+      "lon": "-88.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L016",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "La Democracia",
+      "en": "La Democracia",
+      "slug": "la-democracia-bz01l016"
+    },
+    "code": {
+      "id": "BZ01L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.341",
+      "lon": "-88.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L029",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ladyville",
+      "en": "Ladyville",
+      "slug": "ladyville-bz01l029"
+    },
+    "code": {
+      "id": "BZ01L029",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.554",
+      "lon": "-88.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L045",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lemonal",
+      "en": "Lemonal",
+      "slug": "lemonal-bz01l045"
+    },
+    "code": {
+      "id": "BZ01L045",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.608",
+      "lon": "-88.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L031",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lime Walk",
+      "en": "Lime Walk",
+      "slug": "lime-walk-bz01l031"
+    },
+    "code": {
+      "id": "BZ01L031",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.631",
+      "lon": "-88.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L032",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Little Bermudian Landing",
+      "en": "Little Bermudian Landing",
+      "slug": "little-bermudian-landing-bz01l032"
+    },
+    "code": {
+      "id": "BZ01L032",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.575",
+      "lon": "-88.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L015",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lucky Strike",
+      "en": "Lucky Strike",
+      "slug": "lucky-strike-bz01l015"
+    },
+    "code": {
+      "id": "BZ01L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.779",
+      "lon": "-88.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L046",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Maskall",
+      "en": "Maskall",
+      "slug": "maskall-bz01l046"
+    },
+    "code": {
+      "id": "BZ01L046",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.878",
+      "lon": "-88.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L030",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "May Pen",
+      "en": "May Pen",
+      "slug": "may-pen-bz01l030"
+    },
+    "code": {
+      "id": "BZ01L030",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.655",
+      "lon": "-88.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L028",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "More Force",
+      "en": "More Force",
+      "slug": "more-force-bz01l028"
+    },
+    "code": {
+      "id": "BZ01L028",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.843",
+      "lon": "-88.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L024",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Nago Bank",
+      "en": "Nago Bank",
+      "slug": "nago-bank-bz01l024"
+    },
+    "code": {
+      "id": "BZ01L024",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.88",
+      "lon": "-88.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L018",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rancho Dolores",
+      "en": "Rancho Dolores",
+      "slug": "rancho-dolores-bz01l018"
+    },
+    "code": {
+      "id": "BZ01L018",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.536",
+      "lon": "-88.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L051",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Revenge",
+      "en": "Revenge",
+      "slug": "revenge-bz01l051"
+    },
+    "code": {
+      "id": "BZ01L051",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.863",
+      "lon": "-88.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rockstone Pond",
+      "en": "Rockstone Pond",
+      "slug": "rockstone-pond-bz01l003"
+    },
+    "code": {
+      "id": "BZ01L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.75",
+      "lon": "-88.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rockville",
+      "en": "Rockville",
+      "slug": "rockville-bz01l002"
+    },
+    "code": {
+      "id": "BZ01L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.4",
+      "lon": "-88.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L023",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Saint Paul's",
+      "en": "Saint Paul's",
+      "slug": "saint-paul-s-bz01l023"
+    },
+    "code": {
+      "id": "BZ01L023",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.512",
+      "lon": "-88.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Salt Creek",
+      "en": "Salt Creek",
+      "slug": "salt-creek-bz01l010"
+    },
+    "code": {
+      "id": "BZ01L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.663",
+      "lon": "-88.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "San Pedro",
+      "en": "San Pedro",
+      "slug": "san-pedro-bz01l006"
+    },
+    "code": {
+      "id": "BZ01L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.916",
+      "lon": "-87.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L022",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sand Hill",
+      "en": "Sand Hill",
+      "slug": "sand-hill-bz01l022"
+    },
+    "code": {
+      "id": "BZ01L022",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.64",
+      "lon": "-88.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Santana",
+      "en": "Santana",
+      "slug": "santana-bz01l005"
+    },
+    "code": {
+      "id": "BZ01L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.8",
+      "lon": "-88.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L014",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Scotland",
+      "en": "Scotland",
+      "slug": "scotland-bz01l014"
+    },
+    "code": {
+      "id": "BZ01L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.567",
+      "lon": "-88.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L020",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tropical Park",
+      "en": "Tropical Park",
+      "slug": "tropical-park-bz01l020"
+    },
+    "code": {
+      "id": "BZ01L020",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.467",
+      "lon": "-88.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L017",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Washing Tree",
+      "en": "Washing Tree",
+      "slug": "washing-tree-bz01l017"
+    },
+    "code": {
+      "id": "BZ01L017",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.685",
+      "lon": "-88.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L041",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Watters Bank",
+      "en": "Watters Bank",
+      "slug": "watters-bank-bz01l041"
+    },
+    "code": {
+      "id": "BZ01L041",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.312",
+      "lon": "-88.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L027",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "White Hill",
+      "en": "White Hill",
+      "slug": "white-hill-bz01l027"
+    },
+    "code": {
+      "id": "BZ01L027",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.25",
+      "lon": "-88.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BZ01L049",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Willows Bank",
+      "en": "Willows Bank",
+      "slug": "willows-bank-bz01l049"
+    },
+    "code": {
+      "id": "BZ01L049",
+      "iso": null
+    },
+    "parent": {
+      "id": "BZ01",
+      "level": 1,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-bz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BZ01",
+        "level": 1,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-bz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.529",
+      "lon": "-88.573"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

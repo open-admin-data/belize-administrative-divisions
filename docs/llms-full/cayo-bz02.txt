@@ -1,0 +1,609 @@
+# Cayo — Belize Administrative Divisions
+
+> 120 localitys
+> Code: BZ02
+> Coordinates: 16.963, -88.887
+> Last updated: 2026-07-07. License: CC-BY-4.0.
+
+## Localitys
+
+### Aguacate Camp
+
+Code: BZ02L103, Coordinates: 16.707, -89.05
+
+
+### Arabato Camp
+
+Code: BZ02L018, Coordinates: 16.617, -89.057
+
+
+### Augustine
+
+Code: BZ02L038, Coordinates: 16.967, -88.997
+
+
+### Baking Pot
+
+Code: BZ02L015, Coordinates: 17.201, -89.013
+
+
+### Baldy Beacon
+
+Code: BZ02L098, Coordinates: 17.003, -88.792
+
+
+### Baldy Sibun
+
+Code: BZ02L066, Coordinates: 16.994, -88.741
+
+
+### Banana Bank
+
+Code: BZ02L022, Coordinates: 17.319, -88.781
+
+
+### Barton Ramie
+
+Code: BZ02L045, Coordinates: 17.21, -88.974
+
+
+### Beaver Dam
+
+Code: BZ02L093, Coordinates: 17.279, -88.672
+
+
+### Benque Ceiba
+
+Code: BZ02L027, Coordinates: 17.185, -89.034
+
+
+### Benque Viejo del Carmen
+
+Code: BZ02L002, Coordinates: 17.075, -89.139
+
+
+### Big Eddy
+
+Code: BZ02L016, Coordinates: 17.092, -89.068
+
+
+### Black Man Eddy
+
+Code: BZ02L120, Coordinates: 17.227, -88.916
+
+
+### Black Rock
+
+Code: BZ02L033, Coordinates: 17.049, -89.059
+
+
+### Blackman Eddy
+
+Code: BZ02L032, Coordinates: 17.217, -88.917
+
+
+### Blancaneau
+
+Code: BZ02L054, Coordinates: 17.046, -88.964
+
+
+### Blue Hole Camp
+
+Code: BZ02L078, Coordinates: 16.792, -88.939
+
+
+### Branch Mouth
+
+Code: BZ02L101, Coordinates: 17.179, -89.08
+
+
+### Buena Vista
+
+Code: BZ02L007, Coordinates: 17.117, -89.117
+
+
+### Buena Vista
+
+Code: BZ02L031, Coordinates: 17.131, -89.128
+
+
+### Bull Run Ranch
+
+Code: BZ02L085, Coordinates: 17.046, -88.909
+
+
+### Bullet Tree Falls
+
+Code: BZ02L010, Coordinates: 17.168, -89.111
+
+
+### Cadena Creek Camp
+
+Code: BZ02L023, Coordinates: 17.283, -89.1
+
+
+### Callac Creek
+
+Code: BZ02L061, Coordinates: 17.127, -89.137
+
+
+### Camelote
+
+Code: BZ02L030, Coordinates: 17.239, -88.827
+
+
+### Carmelita Gardens
+
+Code: BZ02L089, Coordinates: 17.182, -89.063
+
+
+### Castile
+
+Code: BZ02L069, Coordinates: 17.365, -88.667
+
+
+### Caves Branch
+
+Code: BZ02L084, Coordinates: 17.15, -88.712
+
+
+### Cebada Camp
+
+Code: BZ02L096, Coordinates: 16.657, -89.164
+
+
+### Chapayal
+
+Code: BZ02L051, Coordinates: 16.782, -89.139
+
+
+### Chial
+
+Code: BZ02L118, Coordinates: 17.105, -89.113
+
+
+### Chorro
+
+Code: BZ02L106, Coordinates: 17.255, -89.124
+
+
+### Cohune Ridge
+
+Code: BZ02L055, Coordinates: 16.819, -89.084
+
+
+### Cool Shade
+
+Code: BZ02L102, Coordinates: 17.171, -88.968
+
+
+### Coquericot
+
+Code: BZ02L037, Coordinates: 17.423, -88.622
+
+
+### Cotton Tree
+
+Code: BZ02L109, Coordinates: 17.274, -88.714
+
+
+### Cotton Tree Bank
+
+Code: BZ02L046, Coordinates: 17.333, -88.733
+
+
+### Cowboy Camp
+
+Code: BZ02L043, Coordinates: 16.738, -89.125
+
+
+### Cristo Rey
+
+Code: BZ02L056, Coordinates: 17.131, -89.055
+
+
+### Crossing Landing Bank
+
+Code: BZ02L072, Coordinates: 17.229, -88.57
+
+
+### Cubetas
+
+Code: BZ02L042, Coordinates: 16.785, -89.01
+
+
+### Drill Camp
+
+Code: BZ02L039, Coordinates: 17.358, -88.914
+
+
+### Dry Creek Bank
+
+Code: BZ02L057, Coordinates: 17.171, -88.596
+
+
+### Duck Run
+
+Code: BZ02L034, Coordinates: 17.185, -89.048
+
+
+### Duffy Bank
+
+Code: BZ02L060, Coordinates: 17.12, -89.063
+
+
+### El Cayo
+
+Code: BZ02L004, Coordinates: 17.156, -89.061
+
+
+### Esperanza
+
+Code: BZ02L053, Coordinates: 17.175, -89.044
+
+
+### Fermin Reyes
+
+Code: BZ02L113, Coordinates: 17.259, -89.054
+
+
+### Flour Camp
+
+Code: BZ02L116, Coordinates: 17.045, -89.063
+
+
+### Fork Camp
+
+Code: BZ02L047, Coordinates: 16.519, -89.066
+
+
+### Fowlers Work
+
+Code: BZ02L012, Coordinates: 17.264, -89.138
+
+
+### Garbutt&#39;s Falls
+
+Code: BZ02L075, Coordinates: 17.055, -89.145
+
+
+### Georgeville
+
+Code: BZ02L028, Coordinates: 17.191, -88.975
+
+
+### Good Living Camp
+
+Code: BZ02L011, Coordinates: 17.118, -88.657
+
+
+### Guacamallo
+
+Code: BZ02L006, Coordinates: 16.868, -89.032
+
+
+### Iguana Creek Bank
+
+Code: BZ02L082, Coordinates: 17.235, -88.928
+
+
+### La Flor Camp
+
+Code: BZ02L073, Coordinates: 16.623, -89.009
+
+
+### Listowel
+
+Code: BZ02L008, Coordinates: 17.202, -89.021
+
+
+### Long Bridge
+
+Code: BZ02L105, Coordinates: 17.314, -89.085
+
+
+### Los Altos
+
+Code: BZ02L095, Coordinates: 16.977, -88.996
+
+
+### Los Lirios Camp
+
+Code: BZ02L041, Coordinates: 16.704, -89.009
+
+
+### Macaw Bank
+
+Code: BZ02L064, Coordinates: 17.084, -89.064
+
+
+### Macaw Bank
+
+Code: BZ02L067, Coordinates: 16.983, -89.067
+
+
+### Mai Gate
+
+Code: BZ02L070, Coordinates: 17.065, -88.973
+
+
+### Meditation
+
+Code: BZ02L091, Coordinates: 17.387, -88.727
+
+
+### Millionario
+
+Code: BZ02L025, Coordinates: 16.755, -89.008
+
+
+### Monkey Fall
+
+Code: BZ02L005, Coordinates: 17.138, -89.05
+
+
+### More Tomorrow
+
+Code: BZ02L044, Coordinates: 17.347, -88.692
+
+
+### Mount Hope
+
+Code: BZ02L059, Coordinates: 17.22, -88.93
+
+
+### Mountain Cow
+
+Code: BZ02L119, Coordinates: 16.788, -89.049
+
+
+### Negroman
+
+Code: BZ02L079, Coordinates: 17.078, -89.083
+
+
+### Never Delay
+
+Code: BZ02L092, Coordinates: 17.321, -88.761
+
+
+### Norland
+
+Code: BZ02L083, Coordinates: 17.182, -89.009
+
+
+### Ontario Village
+
+Code: BZ02L081, Coordinates: 17.221, -88.892
+
+
+### Orange Walk
+
+Code: BZ02L026, Coordinates: 17.27, -88.789
+
+
+### Panama
+
+Code: BZ02L058, Coordinates: 17.355, -88.692
+
+
+### Plant Sucker
+
+Code: BZ02L087, Coordinates: 17.158, -89.136
+
+
+### Privassion Camp
+
+Code: BZ02L024, Coordinates: 17.036, -88.946
+
+
+### Providencien
+
+Code: BZ02L094, Coordinates: 17.143, -89.136
+
+
+### Puchituk Camp
+
+Code: BZ02L019, Coordinates: 16.769, -89.062
+
+
+### Ramonal
+
+Code: BZ02L048, Coordinates: 17.157, -89.131
+
+
+### Resumadero Camp
+
+Code: BZ02L009, Coordinates: 16.631, -89.068
+
+
+### Retiro
+
+Code: BZ02L062, Coordinates: 16.719, -89.14
+
+
+### Roaring Creek
+
+Code: BZ02L017, Coordinates: 17.25, -88.783
+
+
+### Rock Dondo
+
+Code: BZ02L115, Coordinates: 17.35, -88.733
+
+
+### Round Hole
+
+Code: BZ02L074, Coordinates: 17.323, -89.083
+
+
+### Round Hole Bank
+
+Code: BZ02L068, Coordinates: 16.7, -89.113
+
+
+### Saint Thomas
+
+Code: BZ02L036, Coordinates: 17.15, -88.633
+
+
+### San Antonio
+
+Code: BZ02L013, Coordinates: 17.079, -89.024
+
+
+### San Felipe
+
+Code: BZ02L112, Coordinates: 17.147, -89.067
+
+
+### San Ignacio
+
+Code: BZ02L001, Coordinates: 17.156, -89.071
+
+
+### San Jose
+
+Code: BZ02L035, Coordinates: 17.171, -89.098
+
+
+### San Jose Soccoths
+
+Code: BZ02L088, Coordinates: 17.085, -89.13
+
+
+### San Lorenzo
+
+Code: BZ02L117, Coordinates: 17.1, -89.127
+
+
+### San Luis
+
+Code: BZ02L076, Coordinates: 16.91, -89.006
+
+
+### San Miguel
+
+Code: BZ02L111, Coordinates: 17.183, -89.023
+
+
+### San Pastor Camp
+
+Code: BZ02L052, Coordinates: 16.716, -88.99
+
+
+### San Pedro
+
+Code: BZ02L029, Coordinates: 17.35, -88.983
+
+
+### Santa Elena
+
+Code: BZ02L100, Coordinates: 17.161, -89.055
+
+
+### Santa Familia
+
+Code: BZ02L049, Coordinates: 17.186, -89.074
+
+
+### Santa Rosa
+
+Code: BZ02L104, Coordinates: 17.136, -89.137
+
+
+### Saturday Creek
+
+Code: BZ02L080, Coordinates: 17.317, -88.767
+
+
+### Savannah Bank
+
+Code: BZ02L063, Coordinates: 17.191, -88.805
+
+
+### Sayab Camp
+
+Code: BZ02L099, Coordinates: 17.111, -88.97
+
+
+### Seven Miles El Progresso
+
+Code: BZ02L021, Coordinates: 17.102, -88.949
+
+
+### Sibun Camp
+
+Code: BZ02L014, Coordinates: 17.095, -88.657
+
+
+### South View Point
+
+Code: BZ02L086, Coordinates: 16.9, -88.983
+
+
+### Spanish Lookout
+
+Code: BZ02L107, Coordinates: 17.217, -88.983
+
+
+### Spanish Lookout
+
+Code: BZ02L114, Coordinates: 17.263, -89.009
+
+
+### St. Margaret
+
+Code: BZ02L110, Coordinates: 17.09, -88.611
+
+
+### Teakettle Village
+
+Code: BZ02L090, Coordinates: 17.23, -88.855
+
+
+### Toro
+
+Code: BZ02L020, Coordinates: 17.304, -89.142
+
+
+### Trapiche
+
+Code: BZ02L108, Coordinates: 17.17, -89.065
+
+
+### Tu-Tu Camp
+
+Code: BZ02L071, Coordinates: 17.323, -89.138
+
+
+### Union Camp
+
+Code: BZ02L097, Coordinates: 16.628, -89.019
+
+
+### Unitedville
+
+Code: BZ02L050, Coordinates: 17.21, -88.934
+
+
+### Vaca
+
+Code: BZ02L077, Coordinates: 17.033, -89.063
+
+
+### Valentin Camp
+
+Code: BZ02L040, Coordinates: 16.766, -89.162
+
+
+### Valley of Peace
+
+Code: BZ02L003, Coordinates: 17.335, -88.835
+
+
+### Yalbac Camp
+
+Code: BZ02L065, Coordinates: 17.381, -88.944
+
+
