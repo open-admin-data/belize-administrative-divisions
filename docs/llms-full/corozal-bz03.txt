@@ -3,7 +3,7 @@
 > 67 localitys
 > Code: BZ03
 > Coordinates: 18.238, -88.321
-> Last updated: 2026-07-07. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Localitys
 

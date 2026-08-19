@@ -3,7 +3,7 @@
 > 83 localitys
 > Code: BZ04
 > Coordinates: 17.767, -88.854
-> Last updated: 2026-07-07. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Localitys
 

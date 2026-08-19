@@ -3,7 +3,7 @@
 > 54 localitys
 > Code: BZ01
 > Coordinates: 17.553, -88.447
-> Last updated: 2026-07-07. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Localitys
 
